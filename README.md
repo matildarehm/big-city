@@ -34,7 +34,7 @@ NYC Geocode API
 ```
 
 ## sources
-[All Neighborhoods by Borough - Baruch CUNY](https://www.baruch.cuny.edu/nycdata/population-geography/neighborhoods.htm) \
+[All Neighborhoods by Borough - Baruch CUNY](https://www.baruch.cuny.edu/nycdata/population-geography/neighborhoods.htm)
 
 **webscrapers created by me (python)** \
 [Webscraper for Zip Codes](https://www.google.com) \
