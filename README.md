@@ -35,7 +35,9 @@ NYC Geocode API
 
 ## sources
 [All Neighborhoods by Borough - Baruch CUNY](https://www.baruch.cuny.edu/nycdata/population-geography/neighborhoods.htm)
+[Compass Neighborhood Guide](https://www.compass.com/neighborhood-guides/nyc/)
+[Statistic Atlas](https://statisticalatlas.com/United-States)
 
 **webscrapers (python)** \
-[Webscraper for Zip Codes](https://www.google.com) \
-[Webscraper for Subway Lines + Nearby Neighborhoods](https://www.google.com)
+[Webscraper for Zip Codes](https://github.com/matildarehm/big-city/blob/main/web-scrapers/zip-code-scraper.py) \
+[Webscraper for Subway Lines + Nearby Neighborhoods](https://github.com/matildarehm/big-city/blob/main/web-scrapers/nearby-scraper.py)
