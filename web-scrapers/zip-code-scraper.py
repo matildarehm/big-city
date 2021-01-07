@@ -34,8 +34,9 @@ def call_selenium_drivers(row, borough_name):
     zip_code = page_source.find_all("a", href=re.compile(r"^/zip/"))
     all_zip_codes = []
 
-    for zip in zip_code:
-        all_zip_codes.append(zip.text.strip())
+    if len(zip_code) > 0:
+        for zip in zip_code:
+            all_zip_codes.append(zip.text.strip())
     print(row, all_zip_codes)
     driver.quit()
     return all_zip_codes
