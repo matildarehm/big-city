@@ -3,6 +3,7 @@ from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 import re
 import pandas as pd
+import requests
 import numpy as np
 from tabulate import tabulate
 import os
@@ -28,7 +29,6 @@ def parse_neighborhoods(boroughs):
 
 def call_selenium_drivers(row, borough_name):
     driver = webdriver.Chrome(CHROME_DRIVER)
-    # driver.implicitly_wait(5)
     driver.get(NEARBY_BASE_URL + row)
     page_source = BeautifulSoup(driver.page_source, "html.parser")
     subway_stations = page_source.find_all("img", alt=re.compile(r"^[a-z0-9]( transit)$"))
@@ -38,8 +38,25 @@ def call_selenium_drivers(row, borough_name):
         for subway in subway_stations:
             stations.add(subway["alt"].split()[0])
         print(row, list(stations))
+        driver.quit()
+    else:
+        driver.quit()
+        subway_lines = "subway lines"
+        page_search = requests.get(f"https://www.google.com/search?q={row + subway_lines}")
+        page_soup = BeautifulSoup(page_search.content, "html.parser")
+        moovit_link = page_soup.find("a", href=re.compile(r"(moovitapp)")).attrs['href']
+        parsed_moovit_link = moovit_link.split("&")[0].split("?q=")[1]
+        driver.get(parsed_moovit_link)
+        other_page_source = BeautifulSoup(driver.page_source, "html.parser")
+        other_subway_stations = other_page_source.find_all("a", {"class": "line-link"})
+        print(other_subway_stations)
+        if len(other_subway_stations) > 0:
+            for subway in other_subway_stations:
+                if len(subway.text) <= 2:
+                    stations.add(subway.text)
+            print(row, list(stations))
+        driver.quit()
 
-    driver.quit()
     return list(stations)
 
 
@@ -49,8 +66,8 @@ def get_subway_stations(dataframes):
     for index, borough_data in enumerate(data):
         borough_data["url_names"] = borough_data[column_names[index]].str.lower().replace(" ", "-")
         borough_data["url_names"] = borough_data["url_names"].str.replace(" ", "-")
+        print(borough_data["url_names"])
         borough_data["subway_lines"] = borough_data.apply(lambda row: call_selenium_drivers(row["url_names"], column_names[index]), axis=1)
-        print(borough_data[borough_data["subway_lines"].str.len() == 0][column_names[index]].to_csv('neighborhoods/unable_to_find.csv', mode='a', index=False))
 
 def main():
     borough_files = os.listdir("./boroughs")
@@ -60,4 +77,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
