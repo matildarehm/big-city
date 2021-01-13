@@ -27,47 +27,69 @@ def parse_neighborhoods(boroughs):
     return dataframes, columns
 
 
-def call_selenium_drivers(row, borough_name):
-    driver = webdriver.Chrome(CHROME_DRIVER)
-    driver.get(NEARBY_BASE_URL + row)
+def get_compass_details(driver, url):
+    driver.get(NEARBY_BASE_URL + url)
     page_source = BeautifulSoup(driver.page_source, "html.parser")
     subway_stations = page_source.find_all("img", alt=re.compile(r"^[a-z0-9]( transit)$"))
+    nearby_neighborhoods = page_source.find_all("div", {"class": "neighborhoodGuides-locationDetailsBoundary"})
+    nearby = []
+    if len(subway_stations) > 0:
+        all_nearby = re.split(r" and the |,|Nearby Neighborhoods |(\n)|.", str(nearby_neighborhoods[len(nearby_neighborhoods) - 1].text))
+        nearby = list(filter(lambda near: not (near is None) and len(str(near).replace(" ", "")) > 2, all_nearby))
+    return [subway_stations, nearby]
+
+
+def get_moovit_details(driver, search):
+    subway_lines = "subway lines moovit"
+    page_search = requests.get(f"https://www.google.com/search?q={search + subway_lines}")
+    page_soup = BeautifulSoup(page_search.content, "html.parser")
+    moovit_link = page_soup.find("a", href=re.compile(r"(moovitapp)")).attrs['href']
+    moovit_list = re.split(r"&|\?q=|\?sa=", moovit_link)
+    parsed_moovit_link = [link for link in moovit_list if link.startswith("http")][0]
+    driver.get(parsed_moovit_link)
+    other_page_source = BeautifulSoup(driver.page_source, "html.parser")
+    other_subway_stations = other_page_source.find_all("a", {"class": "line-link"})
+    return other_subway_stations
+
+
+def call_selenium_drivers(url, search):
+    driver = webdriver.Chrome(CHROME_DRIVER)
+    subway_stations, nearby_neighborhoods = get_compass_details(driver, url)
+    print("subway stations", subway_stations, "nearby neighborhoods", nearby_neighborhoods)
 
     stations = set()
     if len(subway_stations) > 0:
         for subway in subway_stations:
             stations.add(subway["alt"].split()[0])
-        print(row, list(stations))
-        driver.quit()
     else:
-        driver.quit()
-        subway_lines = "subway lines"
-        page_search = requests.get(f"https://www.google.com/search?q={row + subway_lines}")
-        page_soup = BeautifulSoup(page_search.content, "html.parser")
-        moovit_link = page_soup.find("a", href=re.compile(r"(moovitapp)")).attrs['href']
-        parsed_moovit_link = moovit_link.split("&")[0].split("?q=")[1]
-        driver.get(parsed_moovit_link)
-        other_page_source = BeautifulSoup(driver.page_source, "html.parser")
-        other_subway_stations = other_page_source.find_all("a", {"class": "line-link"})
-        print(other_subway_stations)
+        other_subway_stations = get_moovit_details(driver, search)
         if len(other_subway_stations) > 0:
-            for subway in other_subway_stations:
-                if len(subway.text) <= 2:
-                    stations.add(subway.text)
-            print(row, list(stations))
-        driver.quit()
+            for other_subway in other_subway_stations:
+                if len(other_subway.text) < 2:
+                    stations.add(str(other_subway.text).lower())
+                elif "x" in str(other_subway.text):
+                    stations.add(str(other_subway.text).split("x")[0])
 
-    return list(stations)
+    driver.quit()
+    print(nearby_neighborhoods)
+    print(search, list(stations), nearby_neighborhoods)
+    return list(stations), []
 
 
 def get_subway_stations(dataframes):
     data = dataframes[0]
     column_names = dataframes[1]
     for index, borough_data in enumerate(data):
-        borough_data["url_names"] = borough_data[column_names[index]].str.lower().replace(" ", "-")
+        borough_data["url_names"] = borough_data[column_names[index]].str.lower()
         borough_data["url_names"] = borough_data["url_names"].str.replace(" ", "-")
-        print(borough_data["url_names"])
-        borough_data["subway_lines"] = borough_data.apply(lambda row: call_selenium_drivers(row["url_names"], column_names[index]), axis=1)
+        borough_data["search_names"] = borough_data["url_names"].str.replace("-", " ")
+        print(borough_data)
+        borough_data["neighborhoods"] = borough_data.apply(lambda row: call_selenium_drivers(row["url_names"],
+                                                                                             row["search_names"]), axis=1)
+        borough_data[['subway_lines', 'nearby_neighborhoods']] = pd.DataFrame(borough_data["neighborhoods"].tolist(),
+                                                                              index=borough_data.index)
+        print(borough_data)
+
 
 def main():
     borough_files = os.listdir("./boroughs")
