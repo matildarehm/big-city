@@ -1,0 +1,947 @@
+{
+    "manhattan": [
+        {
+            "subway_lines": [
+                "N",
+                "5",
+                "R",
+                "4",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Tribeca",
+                "Financial District"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Battery Park City"
+        },
+        {
+            "subway_lines": [
+                "6",
+                "4",
+                "5",
+                "Q"
+            ],
+            "nearby_neighborhoods": [
+                "Upper East Side",
+                "East Harlem",
+                "Upper East Side",
+                "Yorkville"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Carnegie Hill"
+        },
+        {
+            "subway_lines": [
+                "E",
+                "N",
+                "1",
+                "M",
+                "A",
+                "F",
+                "L",
+                "3",
+                "Q",
+                "R",
+                "2",
+                "C"
+            ],
+            "nearby_neighborhoods": [
+                "West Village",
+                "Flatiron District",
+                "NoMad",
+                "Hell’s Kitchen",
+                "Fashion District"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Chelsea"
+        },
+        {
+            "subway_lines": [
+                "N",
+                "6",
+                "F",
+                "B",
+                "J",
+                "Q",
+                "D",
+                "4"
+            ],
+            "nearby_neighborhoods": [
+                "Little Italy",
+                "TriBeCa",
+                "Lower East Side"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Chinatown"
+        },
+        {
+            "subway_lines": [
+                "6",
+                "A",
+                "3",
+                "R",
+                "4",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Financial District",
+                "Wall Street",
+                "Tribeca",
+                "Chinatown",
+                "Two Bridges"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Civic Center"
+        },
+        {
+            "subway_lines": [
+                "6",
+                "4",
+                "5"
+            ],
+            "nearby_neighborhoods": [
+                "Harlem",
+                "Upper East Side"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "East Harlem"
+        },
+        {
+            "subway_lines": [
+                "F",
+                "L",
+                "6"
+            ],
+            "nearby_neighborhoods": [
+                "Gramercy",
+                "Greenwich Village",
+                "NoHo",
+                "NoLita",
+                "Lower East Side"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "East Village"
+        },
+        {
+            "subway_lines": [
+                "C",
+                "E",
+                "N",
+                "7",
+                "D",
+                "A",
+                "F",
+                "M",
+                "B",
+                "3",
+                "Q",
+                "R",
+                "2",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Theater District",
+                "Murray Hill",
+                "Chelsea",
+                "Hell's Kitchen"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Fashion District"
+        },
+        {
+            "subway_lines": [
+                "E",
+                "N",
+                "6",
+                "5",
+                "3",
+                "J",
+                "R",
+                "2",
+                "4",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Battery Park City",
+                "Tribeca",
+                "Chinatown",
+                "Lower East Side"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Financial District"
+        },
+        {
+            "subway_lines": [
+                "N",
+                "6",
+                "M",
+                "F",
+                "5",
+                "L",
+                "Q",
+                "R",
+                "4"
+            ],
+            "nearby_neighborhoods": [
+                "Greenwich Village",
+                "Gramercy",
+                "NoMad",
+                "Chelsea"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Flatiron District"
+        },
+        {
+            "subway_lines": [
+                "6",
+                "A",
+                "B",
+                "L",
+                "J",
+                "S",
+                "C"
+            ],
+            "nearby_neighborhoods": [
+                "Hudson Heights",
+                "Washington Heights"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Fort George"
+        },
+        {
+            "subway_lines": [
+                "N",
+                "6",
+                "5",
+                "L",
+                "Q",
+                "R",
+                "4"
+            ],
+            "nearby_neighborhoods": [
+                "Murray Hill",
+                "Flatiron District",
+                "Greenwich Village",
+                "East Village"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Gramercy"
+        },
+        {
+            "subway_lines": [
+                "E",
+                "N",
+                "M",
+                "F",
+                "B",
+                "L",
+                "R",
+                "D",
+                "C"
+            ],
+            "nearby_neighborhoods": [
+                "West Village",
+                "Flatiron District",
+                "Gramercy",
+                "Noho",
+                "Soho",
+                "East Village"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Greenwich Village"
+        },
+        {
+            "subway_lines": [
+                "A",
+                "D",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Central Harlem",
+                "Washington Heights",
+                "West Harlem"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Hamilton Heights"
+        },
+        {
+            "subway_lines": [
+                "D",
+                "A",
+                "B",
+                "3",
+                "2",
+                "C"
+            ],
+            "nearby_neighborhoods": [
+                "Morningside Heights",
+                "East Harlem"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Harlem"
+        },
+        {
+            "subway_lines": [
+                "E",
+                "7",
+                "A",
+                "B",
+                "D",
+                "C"
+            ],
+            "nearby_neighborhoods": [
+                "Chelsea",
+                "Fashion District",
+                "Theater District",
+                "Upper West Side"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Hell's Kitchen"
+        },
+        {
+            "subway_lines": [
+                "E",
+                "C",
+                "R",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Hell's Kitchen",
+                "Times Square",
+                "Fashion District",
+                "Theater District",
+                "Chelsea"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Hudson Square"
+        },
+        {
+            "subway_lines": [
+                "A",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Fort George",
+                "University Heights",
+                "Fordham Manor",
+                "Marble Hill",
+                "Washington Heights",
+                "Spuyten Duyvil"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Inwood"
+        },
+        {
+            "subway_lines": [
+                "A",
+                "F",
+                "B",
+                "3",
+                "Q",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Fashion District",
+                "Midtown South",
+                "Chelsea"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Koreatown"
+        },
+        {
+            "subway_lines": [
+                "6"
+            ],
+            "nearby_neighborhoods": [
+                "Upper East Side",
+                "Midtown North",
+                "Sutton Place",
+                "Upper East Side"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Lenox Hill"
+        },
+        {
+            "subway_lines": [
+                "A",
+                "2",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Upper West Side",
+                "Midtown North",
+                "Midtown West",
+                "Upper West Side"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Lincoln Square"
+        },
+        {
+            "subway_lines": [
+                "N",
+                "6",
+                "B",
+                "J",
+                "Q",
+                "D",
+                "4"
+            ],
+            "nearby_neighborhoods": [
+                "Nolita",
+                "SoHo",
+                "TriBeCa",
+                "Chinatown"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Little Italy"
+        },
+        {
+            "subway_lines": [
+                "M",
+                "F",
+                "J"
+            ],
+            "nearby_neighborhoods": [
+                "East Village",
+                "Nolita",
+                "Little Italy",
+                "Chinatown",
+                "Tribeca",
+                "Financial District"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Lower East Side"
+        },
+        {
+            "subway_lines": [
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Hamilton Heights",
+                "Morningside Heights",
+                "Harlem"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Manhattanville"
+        },
+        {
+            "subway_lines": [
+                "4",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Kingsbridge",
+                "Fordham Manor",
+                "Inwood",
+                "Jerome Park",
+                "Spuyten Duyvil"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Marble Hill"
+        },
+        {
+            "subway_lines": [
+                "E",
+                "A",
+                "L",
+                "C"
+            ],
+            "nearby_neighborhoods": [
+                "Chelsea",
+                "West Village"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Meatpacking District"
+        },
+        {
+            "subway_lines": [
+                "7",
+                "M",
+                "A",
+                "F",
+                "B",
+                "R"
+            ],
+            "nearby_neighborhoods": [
+                "Hell's Kitchen",
+                "Upper West Side",
+                "Financial District",
+                "Wall Street",
+                "West Village",
+                "Hudson Yards",
+                "East Village",
+                "Upper East Side",
+                "Murray Hill"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Midtown Manhattan"
+        },
+        {
+            "subway_lines": [
+                "E",
+                "N",
+                "6",
+                "7",
+                "M",
+                "F",
+                "5",
+                "B",
+                "Q",
+                "R",
+                "D",
+                "4"
+            ],
+            "nearby_neighborhoods": [
+                "Upper East Side",
+                "Murray Hill",
+                "Theater District"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Midtown East"
+        },
+        {
+            "subway_lines": [
+                "M",
+                "A",
+                "F",
+                "W",
+                "Q"
+            ],
+            "nearby_neighborhoods": [
+                "Chelsea",
+                "Hudson Yards",
+                "Kips Bay",
+                "Midtown North",
+                "Murray Hill",
+                "Nomad"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Midtown South"
+        },
+        {
+            "subway_lines": [
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Upper West Side",
+                "Central Harlem",
+                "Manhattan Valley",
+                "Upper West Side",
+                "West Harlem"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Morningside Heights"
+        },
+        {
+            "subway_lines": [
+                "7",
+                "6",
+                "4",
+                "5"
+            ],
+            "nearby_neighborhoods": [
+                "Gramercy",
+                "Flatiron District",
+                "NoMad",
+                "Midtown East",
+                "Fashion District"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Murray Hill"
+        },
+        {
+            "subway_lines": [
+                "N",
+                "M",
+                "F",
+                "5",
+                "B",
+                "R",
+                "D",
+                "4"
+            ],
+            "nearby_neighborhoods": [
+                "Greenwich Village",
+                "Soho",
+                "Nolita",
+                "East Village"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "NoHo"
+        },
+        {
+            "subway_lines": [
+                "J"
+            ],
+            "nearby_neighborhoods": [
+                "Soho",
+                "Noho",
+                "East Village",
+                "Lower East Side",
+                "Little Italy"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Nolita"
+        },
+        {
+            "subway_lines": [
+                "N",
+                "6",
+                "M",
+                "F",
+                "R",
+                "4"
+            ],
+            "nearby_neighborhoods": [
+                "Chelsea",
+                "Murray Hill",
+                "Flatiron District"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Nomad"
+        },
+        {
+            "subway_lines": [
+                "F"
+            ],
+            "nearby_neighborhoods": [
+                "Astoria"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Roosevelt Island"
+        },
+        {
+            "subway_lines": [
+                "C",
+                "E",
+                "6",
+                "N",
+                "D",
+                "A",
+                "F",
+                "M",
+                "B",
+                "3",
+                "Q",
+                "R",
+                "2",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Nolita",
+                "Little Italy",
+                "Greenwich Village",
+                "the West Village",
+                "Tribeca"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "SoHo"
+        },
+        {
+            "subway_lines": [
+                "L",
+                "4",
+                "Q"
+            ],
+            "nearby_neighborhoods": [
+                "East Village",
+                "Gramercy Park",
+                "Kips Bay"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Stuyvesant Town"
+        },
+        {
+            "subway_lines": [
+                "N",
+                "6",
+                "M",
+                "F",
+                "5",
+                "R",
+                "4"
+            ],
+            "nearby_neighborhoods": [
+                "Upper East Side",
+                "Lenox Hill",
+                "Midtown North",
+                "Turtle Bay"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Sutton Place"
+        },
+        {
+            "subway_lines": [
+                "C",
+                "E",
+                "N",
+                "7",
+                "D",
+                "A",
+                "F",
+                "M",
+                "B",
+                "3",
+                "Q",
+                "R",
+                "2",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Midtown East",
+                "Fashion District",
+                "Hell's Kitchen"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Theater District"
+        },
+        {
+            "subway_lines": [
+                "E",
+                "7",
+                "A",
+                "W",
+                "3",
+                "2",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Hell's Kitchen",
+                "Hudson Yards",
+                "Fashion District",
+                "Midtown South",
+                "Midtown"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Times Square"
+        },
+        {
+            "subway_lines": [
+                "E",
+                "N",
+                "1",
+                "A",
+                "3",
+                "Q",
+                "R",
+                "2",
+                "C"
+            ],
+            "nearby_neighborhoods": [
+                "Soho",
+                "Little Italy",
+                "Chinatown",
+                "Lower East Side",
+                "Financial DIstrict",
+                "Battery Park City"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Tribeca"
+        },
+        {
+            "subway_lines": [
+                "E",
+                "R",
+                "M",
+                "4"
+            ],
+            "nearby_neighborhoods": [
+                "Midtown North",
+                "Murray Hill",
+                "Sutton Place"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Turtle Bay"
+        },
+        {
+            "subway_lines": [
+                "B",
+                "M",
+                "F"
+            ],
+            "nearby_neighborhoods": [
+                "Financial District",
+                "Wall Street",
+                "Civic Center",
+                "Chinatown",
+                "Lower East Side"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Two Bridges"
+        },
+        {
+            "subway_lines": [
+                "F",
+                "5",
+                "W",
+                "Q",
+                "R",
+                "4"
+            ],
+            "nearby_neighborhoods": [
+                "East Village",
+                "Greenwich Village",
+                "Flatiron District",
+                "Gramercy"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "14th Street Union Square"
+        },
+        {
+            "subway_lines": [
+                "N",
+                "6",
+                "F",
+                "5",
+                "Q",
+                "R",
+                "4"
+            ],
+            "nearby_neighborhoods": [
+                "Midtown East",
+                "East Harlem"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Upper East Side"
+        },
+        {
+            "subway_lines": [
+                "1",
+                "D",
+                "A",
+                "B",
+                "3",
+                "2",
+                "C"
+            ],
+            "nearby_neighborhoods": [
+                "Hell’s Kitchen",
+                "Theatre District",
+                "Morningside Heights",
+                "Harlem"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Upper West Side"
+        },
+        {
+            "subway_lines": [
+                "W",
+                "3",
+                "R",
+                "2",
+                "4"
+            ],
+            "nearby_neighborhoods": [
+                "Battery Park City",
+                "Civic Center",
+                "Tribeca",
+                "Two Bridges"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Wall Street"
+        },
+        {
+            "subway_lines": [
+                "A",
+                "1"
+            ],
+            "nearby_neighborhoods": [
+                "Central Harlem",
+                "Fort George",
+                "Hamilton Heights",
+                "Hudson Heights"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Washington Heights"
+        },
+        {
+            "subway_lines": [
+                "E",
+                "N",
+                "1",
+                "D",
+                "A",
+                "F",
+                "M",
+                "B",
+                "3",
+                "Q",
+                "R",
+                "2",
+                "C"
+            ],
+            "nearby_neighborhoods": [
+                "Chelsea",
+                "Greenwich Village",
+                "Soho"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "West Village"
+        },
+        {
+            "subway_lines": [
+                "6",
+                "Q"
+            ],
+            "nearby_neighborhoods": [
+                "Upper East Side",
+                "Carnegie Hill",
+                "East Harlem",
+                "Upper East Side"
+            ],
+            "borough": "Manhattan",
+            "state": "New York",
+            "neighborhood": "Yorkville"
+        }
+    ]
+}

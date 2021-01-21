@@ -24,11 +24,11 @@ NYC Geocode API
 ```javascript
 {
   "neighborhood": "Financial District"
-  "subwayLines": [ '1', '2', '3', '4', '5', '6', 'N', 'R', 'E', 'J' ]
-  "nearby": [ 'Battery Park City', 'Tribeca', 'Chinatown', 'Lower East Side' ]
+  "subway_lines": [ '1', '2', '3', '4', '5', '6', 'N', 'R', 'E', 'J' ]
+  "nearby_neighborhoods": [ 'Battery Park City', 'Tribeca', 'Chinatown', 'Lower East Side' ]
   "borough": "Manhattan"
   "state": "New York"
-  "zipCodes": [ 12345, 54321 ]
+  "zipCodes": [ 10004, 10005, 10006, 10038 ]
 }
 
 ```
