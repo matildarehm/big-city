@@ -40,5 +40,5 @@ NYC Geocode API
 
 **webscrapers (python)** \
 [Webscraper for Zip Codes](https://github.com/matildarehm/big-city/blob/main/web-scrapers/zip-code-scraper.py) \
-[Webscraper for Subway Lines + Nearby Neighborhoods](https://github.com/matildarehm/big-city/blob/main/web-scrapers/nearby-scraper.py)
+[Webscraper for Subway Lines + Nearby Neighborhoods](https://github.com/matildarehm/big-city/blob/main/web-scrapers/nearby-scraper.py) \
 [Combination Webscraper](https://github.com/matildarehm/big-city/blob/main/web-scrapers/combine-schema.py)
