@@ -1,0 +1,712 @@
+{
+    "queens": [
+        {
+            "zipCodes": [
+                "11692",
+                "11693"
+            ],
+            "neighborhood": "Arverne"
+        },
+        {
+            "zipCodes": [
+                "11101",
+                "11102",
+                "11103",
+                "11105",
+                "11106",
+                "11370",
+                "11377"
+            ],
+            "neighborhood": "Astoria"
+        },
+        {
+            "zipCodes": [
+                "11370",
+                "11371"
+            ],
+            "neighborhood": "Astoria Heights"
+        },
+        {
+            "zipCodes": [
+                "11358",
+                "11361",
+                "11364",
+                "11365"
+            ],
+            "neighborhood": "Auburndale"
+        },
+        {
+            "zipCodes": [
+                "11357",
+                "11359",
+                "11360"
+            ],
+            "neighborhood": "Bay Terrace"
+        },
+        {
+            "zipCodes": [
+                "11358",
+                "11360",
+                "11361",
+                "11362",
+                "11364"
+            ],
+            "neighborhood": "Bayside"
+        },
+        {
+            "zipCodes": [
+                "11691"
+            ],
+            "neighborhood": "Bayswater"
+        },
+        {
+            "zipCodes": [
+                "11360",
+                "11357"
+            ],
+            "neighborhood": "Beechhurst"
+        },
+        {
+            "zipCodes": [
+                "11364",
+                "11427",
+                "11426"
+            ],
+            "neighborhood": "Bellaire"
+        },
+        {
+            "zipCodes": [
+                "11694"
+            ],
+            "neighborhood": "Belle Harbor"
+        },
+        {
+            "zipCodes": [
+                "11001",
+                "11004",
+                "11362",
+                "11364",
+                "11426",
+                "11427",
+                "11428"
+            ],
+            "neighborhood": "Bellerose"
+        },
+        {
+            "zipCodes": [
+                "11101",
+                "11222",
+                "11378"
+            ],
+            "neighborhood": "Blissville"
+        },
+        {
+            "zipCodes": [
+                "11697"
+            ],
+            "neighborhood": "Breezy Point"
+        },
+        {
+            "zipCodes": [
+                "11367",
+                "11375",
+                "11415",
+                "11424",
+                "11432",
+                "11435"
+            ],
+            "neighborhood": "Briarwood"
+        },
+        {
+            "zipCodes": [
+                "11693"
+            ],
+            "neighborhood": "Broad Channel"
+        },
+        {
+            "zipCodes": [
+                "11568",
+                "11545",
+                "11548"
+            ],
+            "neighborhood": "Brookville"
+        },
+        {
+            "zipCodes": [
+                "11003",
+                "11411",
+                "11413",
+                "11422",
+                "11580"
+            ],
+            "neighborhood": "Cambria Heights"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Clearview"
+        },
+        {
+            "zipCodes": [
+                "11351",
+                "11354",
+                "11356",
+                "11357"
+            ],
+            "neighborhood": "College Point"
+        },
+        {
+            "zipCodes": [
+                "11362",
+                "11363"
+            ],
+            "neighborhood": "Douglaston"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Dutch Kills"
+        },
+        {
+            "zipCodes": [
+                "11105",
+                "11368",
+                "11369",
+                "11370",
+                "11371",
+                "11372",
+                "11377"
+            ],
+            "neighborhood": "East Elmhurst"
+        },
+        {
+            "zipCodes": [
+                "11691"
+            ],
+            "neighborhood": "Edgemere"
+        },
+        {
+            "zipCodes": [
+                "11368",
+                "11372",
+                "11373",
+                "11374",
+                "11377",
+                "11378",
+                "11379"
+            ],
+            "neighborhood": "Elmhurst"
+        },
+        {
+            "zipCodes": [
+                "11096",
+                "11559",
+                "11691",
+                "11692"
+            ],
+            "neighborhood": "Far Rockaway"
+        },
+        {
+            "zipCodes": [
+                "11001"
+            ],
+            "neighborhood": "Floral Park"
+        },
+        {
+            "zipCodes": [
+                "11354",
+                "11355",
+                "11358",
+                "11365",
+                "11367",
+                "11368"
+            ],
+            "neighborhood": "Flushing"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Flushing (Downtown)"
+        },
+        {
+            "zipCodes": [
+                "11367",
+                "11368",
+                "11374",
+                "11375",
+                "11385",
+                "11415",
+                "11418",
+                "11421",
+                "11424"
+            ],
+            "neighborhood": "Forest Hills"
+        },
+        {
+            "zipCodes": [
+                "ZIP Code 11375",
+                "",
+                "11375",
+                "11415"
+            ],
+            "neighborhood": "Forest Hills Gardens"
+        },
+        {
+            "zipCodes": [
+                "11364",
+                "11365",
+                "11366",
+                "11423",
+                "11427",
+                "11432"
+            ],
+            "neighborhood": "Fresh Meadows"
+        },
+        {
+            "zipCodes": [
+                "11004",
+                "11005",
+                "11040",
+                "11042",
+                "11362",
+                "11426",
+                "11427"
+            ],
+            "neighborhood": "Glen Oaks"
+        },
+        {
+            "zipCodes": [
+                "11207",
+                "11208",
+                "11374",
+                "11379",
+                "11385",
+                "11421"
+            ],
+            "neighborhood": "Glendale"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Hammels"
+        },
+        {
+            "zipCodes": [
+                "11366",
+                "11432"
+            ],
+            "neighborhood": "Hillcrest"
+        },
+        {
+            "zipCodes": [
+                "11412",
+                "11423",
+                "11427",
+                "11428",
+                "11429",
+                "11433"
+            ],
+            "neighborhood": "Hollis"
+        },
+        {
+            "zipCodes": [
+                "11423",
+                "11427"
+            ],
+            "neighborhood": "Holliswood"
+        },
+        {
+            "zipCodes": [
+                "11208",
+                "11414",
+                "11430"
+            ],
+            "neighborhood": "Howard Beach"
+        },
+        {
+            "zipCodes": [
+                "11101",
+                "11109",
+                "11222"
+            ],
+            "neighborhood": "Hunters Point"
+        },
+        {
+            "zipCodes": [
+                "11372",
+                "11373",
+                "11377"
+            ],
+            "neighborhood": "Jackson Heights"
+        },
+        {
+            "zipCodes": [
+                "11418",
+                "11419",
+                "11420",
+                "11423",
+                "11432",
+                "11433",
+                "11434",
+                "11435",
+                "11436",
+                "11451"
+            ],
+            "neighborhood": "Jamaica"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Jamaica Center"
+        },
+        {
+            "zipCodes": [
+                "11366",
+                "11423",
+                "11432"
+            ],
+            "neighborhood": "Jamaica Estates"
+        },
+        {
+            "zipCodes": [
+                "ZIP Code 11432",
+                "",
+                "11432"
+            ],
+            "neighborhood": "Jamaica Hills"
+        },
+        {
+            "zipCodes": [
+                "11375",
+                "11415",
+                "11418",
+                "11424",
+                "11435"
+            ],
+            "neighborhood": "Kew Gardens"
+        },
+        {
+            "zipCodes": [
+                "11355",
+                "11365",
+                "11366",
+                "11367",
+                "11435"
+            ],
+            "neighborhood": "Kew Gardens Hills"
+        },
+        {
+            "zipCodes": [
+                "11411",
+                "11413",
+                "11422"
+            ],
+            "neighborhood": "Laurelton"
+        },
+        {
+            "zipCodes": [
+                "11374",
+                "11368",
+                "11373",
+                "11375"
+            ],
+            "neighborhood": "Lefrak City"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Lindenwood"
+        },
+        {
+            "zipCodes": [
+                "11362",
+                "11021",
+                "11363",
+                "11361"
+            ],
+            "neighborhood": "Little Neck"
+        },
+        {
+            "zipCodes": [
+                "11103",
+                "11102",
+                "11101",
+                "11377",
+                "11106"
+            ],
+            "neighborhood": "Long Island City"
+        },
+        {
+            "zipCodes": [
+                "11356",
+                "11357"
+            ],
+            "neighborhood": "Malba"
+        },
+        {
+            "zipCodes": [
+                "11101",
+                "11211",
+                "11237",
+                "11372",
+                "11373",
+                "11377",
+                "11378",
+                "11379",
+                "11385"
+            ],
+            "neighborhood": "Maspeth"
+        },
+        {
+            "zipCodes": [
+                "11373",
+                "11374",
+                "11379",
+                "11385"
+            ],
+            "neighborhood": "Middle Village"
+        },
+        {
+            "zipCodes": [
+                "10016",
+                "10017",
+                "10165",
+                "10168"
+            ],
+            "neighborhood": "Murray Hill"
+        },
+        {
+            "zipCodes": [
+                "11694",
+                "11697"
+            ],
+            "neighborhood": "Neponsit"
+        },
+        {
+            "zipCodes": [
+                "11040"
+            ],
+            "neighborhood": "New Hyde Park"
+        },
+        {
+            "zipCodes": [
+                "11368"
+            ],
+            "neighborhood": "North Corona"
+        },
+        {
+            "zipCodes": [
+                "11362",
+                "11364",
+                "11366",
+                "11427"
+            ],
+            "neighborhood": "Oakland Gardens"
+        },
+        {
+            "zipCodes": [
+                "11414",
+                "11416",
+                "11417",
+                "11418",
+                "11419",
+                "11420",
+                "11421",
+                "11430"
+            ],
+            "neighborhood": "Ozone Park"
+        },
+        {
+            "zipCodes": [
+                "ZIP Code 11365",
+                "",
+                "11355",
+                "11365",
+                "11367"
+            ],
+            "neighborhood": "Pomonok"
+        },
+        {
+            "zipCodes": [
+                "11003",
+                "11366",
+                "11411",
+                "11423",
+                "11427",
+                "11428",
+                "11429"
+            ],
+            "neighborhood": "Queens Village"
+        },
+        {
+            "zipCodes": [
+                "11367",
+                "11355"
+            ],
+            "neighborhood": "Queensboro Hill"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Ravenswood"
+        },
+        {
+            "zipCodes": [
+                "11373",
+                "11374",
+                "11375",
+                "11379",
+                "11385"
+            ],
+            "neighborhood": "Rego Park"
+        },
+        {
+            "zipCodes": [
+                "11416",
+                "11418",
+                "11419",
+                "11421",
+                "11435"
+            ],
+            "neighborhood": "Richmond Hill"
+        },
+        {
+            "zipCodes": [
+                "11207",
+                "11237",
+                "11379",
+                "11385"
+            ],
+            "neighborhood": "Ridgewood"
+        },
+        {
+            "zipCodes": [
+                "11413",
+                "11434"
+            ],
+            "neighborhood": "Rochdale"
+        },
+        {
+            "zipCodes": [
+                "11694"
+            ],
+            "neighborhood": "Rockaway Park"
+        },
+        {
+            "zipCodes": [
+                "11096",
+                "11413",
+                "11422",
+                "11430",
+                "11559",
+                "11581"
+            ],
+            "neighborhood": "Rosedale"
+        },
+        {
+            "zipCodes": [
+                "11697"
+            ],
+            "neighborhood": "Roxbury"
+        },
+        {
+            "zipCodes": [
+                "11694",
+                "11693"
+            ],
+            "neighborhood": "Seaside"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Somerville"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "South Corona"
+        },
+        {
+            "zipCodes": [
+                "11434",
+                "11436"
+            ],
+            "neighborhood": "South Jamaica"
+        },
+        {
+            "zipCodes": [
+                "11419",
+                "11420",
+                "11430",
+                "11434",
+                "11436"
+            ],
+            "neighborhood": "South Ozone Park"
+        },
+        {
+            "zipCodes": [
+                "11413",
+                "11422",
+                "11430",
+                "11434"
+            ],
+            "neighborhood": "Springfield Gardens"
+        },
+        {
+            "zipCodes": [
+                "11412",
+                "11433",
+                "11413",
+                "11434"
+            ],
+            "neighborhood": "St. Albans"
+        },
+        {
+            "zipCodes": [
+                "11105",
+                "11370"
+            ],
+            "neighborhood": "Steinway"
+        },
+        {
+            "zipCodes": [
+                "10301",
+                "10314"
+            ],
+            "neighborhood": "Sunnyside"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Sunnyside Gardens"
+        },
+        {
+            "zipCodes": [
+                "ZIP Code 11366",
+                "",
+                "11366"
+            ],
+            "neighborhood": "Utopia"
+        },
+        {
+            "zipCodes": [
+                "11351",
+                "11354",
+                "11356",
+                "11357",
+                "11358",
+                "11360"
+            ],
+            "neighborhood": "Whitestone"
+        },
+        {
+            "zipCodes": [
+                "11208",
+                "11416",
+                "11418",
+                "11421"
+            ],
+            "neighborhood": "Woodhaven"
+        },
+        {
+            "zipCodes": [
+                "11101",
+                "11103",
+                "11104",
+                "11372",
+                "11377"
+            ],
+            "neighborhood": "Woodside"
+        }
+    ]
+}

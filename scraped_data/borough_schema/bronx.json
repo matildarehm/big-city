@@ -1,0 +1,414 @@
+{
+    "bronx": [
+        {
+            "zipCodes": [],
+            "neighborhood": "Allerton"
+        },
+        {
+            "zipCodes": [
+                "10457",
+                "10458"
+            ],
+            "neighborhood": "Bathgate"
+        },
+        {
+            "zipCodes": [
+                "10469",
+                "10475"
+            ],
+            "neighborhood": "Baychester"
+        },
+        {
+            "zipCodes": [
+                "10458",
+                "10463",
+                "10467",
+                "10468"
+            ],
+            "neighborhood": "Bedford Park"
+        },
+        {
+            "zipCodes": [
+                "10457",
+                "10458",
+                "10460"
+            ],
+            "neighborhood": "Belmont"
+        },
+        {
+            "zipCodes": [
+                "10469",
+                "10467"
+            ],
+            "neighborhood": "Bronxdale"
+        },
+        {
+            "zipCodes": [
+                "10460"
+            ],
+            "neighborhood": "Bronx Park South"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Bronx River"
+        },
+        {
+            "zipCodes": [
+                "10465",
+                "10473"
+            ],
+            "neighborhood": "Castle Hill"
+        },
+        {
+            "zipCodes": [
+                "10464"
+            ],
+            "neighborhood": "City Island"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Claremont Village"
+        },
+        {
+            "zipCodes": [
+                "10473"
+            ],
+            "neighborhood": "Clason Point"
+        },
+        {
+            "zipCodes": [
+                "10451",
+                "10452",
+                "10453",
+                "10456",
+                "10457"
+            ],
+            "neighborhood": "Concourse"
+        },
+        {
+            "zipCodes": [
+                "10451"
+            ],
+            "neighborhood": "Concourse Village"
+        },
+        {
+            "zipCodes": [
+                "ZIP Code 10475",
+                "",
+                "10461",
+                "10475"
+            ],
+            "neighborhood": "Co-op City"
+        },
+        {
+            "zipCodes": [
+                "10461",
+                "10465"
+            ],
+            "neighborhood": "Country Club"
+        },
+        {
+            "zipCodes": [
+                "10457",
+                "10458",
+                "10460"
+            ],
+            "neighborhood": "East Tremont"
+        },
+        {
+            "zipCodes": [
+                "10464",
+                "10466",
+                "10469",
+                "10475"
+            ],
+            "neighborhood": "Eastchester"
+        },
+        {
+            "zipCodes": [
+                "10466"
+            ],
+            "neighborhood": "Edenwald"
+        },
+        {
+            "zipCodes": [
+                "10465"
+            ],
+            "neighborhood": "Edgewater Park"
+        },
+        {
+            "zipCodes": [
+                "ZIP Code 10471",
+                "",
+                "10471"
+            ],
+            "neighborhood": "Fieldston"
+        },
+        {
+            "zipCodes": [
+                "10457",
+                "10458",
+                "10468"
+            ],
+            "neighborhood": "Fordham"
+        },
+        {
+            "zipCodes": [
+                "10451",
+                "10452",
+                "10453"
+            ],
+            "neighborhood": "High Bridge"
+        },
+        {
+            "zipCodes": [
+                "10454",
+                "10455",
+                "10474"
+            ],
+            "neighborhood": "Hunts Point"
+        },
+        {
+            "zipCodes": [
+                "10463",
+                "10468",
+                "10471"
+            ],
+            "neighborhood": "Kingsbridge"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Kingsbridge Heights"
+        },
+        {
+            "zipCodes": [
+                "10455",
+                "10459",
+                "10474"
+            ],
+            "neighborhood": "Longwood"
+        },
+        {
+            "zipCodes": [
+                "10463"
+            ],
+            "neighborhood": "Marble Hill"
+        },
+        {
+            "zipCodes": [
+                "10451",
+                "10455",
+                "10456",
+                "10459"
+            ],
+            "neighborhood": "Melrose"
+        },
+        {
+            "zipCodes": [
+                "10452",
+                "10453",
+                "10468"
+            ],
+            "neighborhood": "Morris Heights"
+        },
+        {
+            "zipCodes": [
+                "10461",
+                "10462",
+                "10469"
+            ],
+            "neighborhood": "Morris Park"
+        },
+        {
+            "zipCodes": [
+                "10459",
+                "10456"
+            ],
+            "neighborhood": "Morrisania"
+        },
+        {
+            "zipCodes": [
+                "10451",
+                "10454",
+                "10455"
+            ],
+            "neighborhood": "Mott Haven"
+        },
+        {
+            "zipCodes": [
+                "10457",
+                "10456"
+            ],
+            "neighborhood": "Mount Eden"
+        },
+        {
+            "zipCodes": [
+                "10963"
+            ],
+            "neighborhood": "Mount Hope"
+        },
+        {
+            "zipCodes": [
+                "ZIP Code 10471",
+                "",
+                "10471"
+            ],
+            "neighborhood": "North Riverdale"
+        },
+        {
+            "zipCodes": [
+                "10458",
+                "10467",
+                "10469"
+            ],
+            "neighborhood": "Norwood"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Olinville"
+        },
+        {
+            "zipCodes": [
+                "10460",
+                "10462",
+                "10472"
+            ],
+            "neighborhood": "Parkchester"
+        },
+        {
+            "zipCodes": [
+                "10461",
+                "10462",
+                "10465",
+                "10475"
+            ],
+            "neighborhood": "Pelham Bay"
+        },
+        {
+            "zipCodes": [
+                "10461",
+                "10469",
+                "10475"
+            ],
+            "neighborhood": "Pelham Gardens"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Pelham Parkway"
+        },
+        {
+            "zipCodes": [
+                "10035",
+                "10451",
+                "10454",
+                "10455",
+                "10474"
+            ],
+            "neighborhood": "Port Morris"
+        },
+        {
+            "zipCodes": [
+                "10463",
+                "10471"
+            ],
+            "neighborhood": "Riverdale"
+        },
+        {
+            "zipCodes": [
+                "12871",
+                "12884"
+            ],
+            "neighborhood": "Schuylerville"
+        },
+        {
+            "zipCodes": [
+                "10459",
+                "10460",
+                "10462",
+                "10472",
+                "10473",
+                "10474"
+            ],
+            "neighborhood": "Soundview"
+        },
+        {
+            "zipCodes": [
+                "10463",
+                "10471"
+            ],
+            "neighborhood": "Spuyten Duyvil"
+        },
+        {
+            "zipCodes": [
+                "10465"
+            ],
+            "neighborhood": "Throgs Neck"
+        },
+        {
+            "zipCodes": [
+                "10461",
+                "10462",
+                "10465",
+                "10472",
+                "10473"
+            ],
+            "neighborhood": "Unionport"
+        },
+        {
+            "zipCodes": [
+                "10453",
+                "10463",
+                "10468"
+            ],
+            "neighborhood": "University Heights"
+        },
+        {
+            "zipCodes": [
+                "10460",
+                "10462"
+            ],
+            "neighborhood": "Van Nest"
+        },
+        {
+            "zipCodes": [
+                "10466",
+                "10470",
+                "10704"
+            ],
+            "neighborhood": "Wakefield"
+        },
+        {
+            "zipCodes": [
+                "ZIP Code 10460",
+                "",
+                "10460",
+                "10462"
+            ],
+            "neighborhood": "West Farms"
+        },
+        {
+            "zipCodes": [
+                "10461"
+            ],
+            "neighborhood": "Westchester Square"
+        },
+        {
+            "zipCodes": [
+                "10461",
+                "10462",
+                "10466",
+                "10467",
+                "10469"
+            ],
+            "neighborhood": "Williamsbridge"
+        },
+        {
+            "zipCodes": [
+                "10466",
+                "10467",
+                "10470"
+            ],
+            "neighborhood": "Woodlawn"
+        }
+    ]
+}
