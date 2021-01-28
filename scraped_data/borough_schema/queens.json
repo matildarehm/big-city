@@ -142,7 +142,10 @@
             "neighborhood": "Cambria Heights"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "11357",
+                "11360"
+            ],
             "neighborhood": "Clearview"
         },
         {
@@ -162,7 +165,9 @@
             "neighborhood": "Douglaston"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "11101"
+            ],
             "neighborhood": "Dutch Kills"
         },
         {
@@ -222,7 +227,10 @@
             "neighborhood": "Flushing"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "11354",
+                "11355"
+            ],
             "neighborhood": "Flushing (Downtown)"
         },
         {
@@ -283,7 +291,9 @@
             "neighborhood": "Glendale"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "11693"
+            ],
             "neighborhood": "Hammels"
         },
         {
@@ -351,10 +361,6 @@
             "neighborhood": "Jamaica"
         },
         {
-            "zipCodes": [],
-            "neighborhood": "Jamaica Center"
-        },
-        {
             "zipCodes": [
                 "11366",
                 "11423",
@@ -408,7 +414,9 @@
             "neighborhood": "Lefrak City"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "11414"
+            ],
             "neighborhood": "Lindenwood"
         },
         {
@@ -540,7 +548,9 @@
             "neighborhood": "Queensboro Hill"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "11106"
+            ],
             "neighborhood": "Ravenswood"
         },
         {
@@ -610,11 +620,15 @@
             "neighborhood": "Seaside"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "11692"
+            ],
             "neighborhood": "Somerville"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "11368"
+            ],
             "neighborhood": "South Corona"
         },
         {
@@ -667,13 +681,15 @@
             "neighborhood": "Sunnyside"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "11101",
+                "11104",
+                "11377"
+            ],
             "neighborhood": "Sunnyside Gardens"
         },
         {
             "zipCodes": [
-                "ZIP Code 11366",
-                "",
                 "11366"
             ],
             "neighborhood": "Utopia"

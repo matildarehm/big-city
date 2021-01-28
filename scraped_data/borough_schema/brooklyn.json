@@ -69,10 +69,6 @@
             "neighborhood": "Brighton Beach"
         },
         {
-            "zipCodes": ["11207"],
-            "neighborhood": "Broadway Junction"
-        },
-        {
             "zipCodes": [
                 "10004",
                 "11201"

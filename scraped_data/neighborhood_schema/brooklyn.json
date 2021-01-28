@@ -1,0 +1,1397 @@
+{
+	"brooklyn": [
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Gravesend",
+				"Bensonhurst",
+				"Dyker Heights"
+			],
+			"neighborhood": "Bath Beach",
+			"state": "New York",
+			"subway_lines": [
+				"D"
+			],
+			"zipCodes": [
+				"11209",
+				"11214",
+				"11224",
+				"11228"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Sunset Park",
+				"Dyker Heights"
+			],
+			"neighborhood": "Bay Ridge",
+			"state": "New York",
+			"subway_lines": [
+				"R"
+			],
+			"zipCodes": [
+				"11209",
+				"11220"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bushwick",
+				"Clinton Hill",
+				"Crown Heights",
+				"Williamsburg"
+			],
+			"neighborhood": "Bedford Stuyvesant",
+			"state": "New York",
+			"subway_lines": [
+				"G"
+			],
+			"zipCodes": [
+				"11205",
+				"11206",
+				"11213",
+				"11216",
+				"11221",
+				"11233",
+				"11238"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bath Beach",
+				"Gravesend",
+				"Dyker Heights",
+				"Midwood",
+				"Borough Park",
+				"Mapleton",
+				"Sheepshead Bay"
+			],
+			"neighborhood": "Bensonhurst",
+			"state": "New York",
+			"subway_lines": [
+				"D"
+			],
+			"zipCodes": [
+				"11204",
+				"11214",
+				"11219",
+				"11223",
+				"11228"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"East New York",
+				"Flatlands",
+				"East Flatbush",
+				"Canarsie",
+				"Mill Basin"
+			],
+			"neighborhood": "Bergen Beach",
+			"state": "New York",
+			"subway_lines": [
+				"L",
+				"Q",
+				"2"
+			],
+			"zipCodes": [
+				"11234"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Downtown Brooklyn",
+				"Cobble Hill",
+				"Carroll Gardens",
+				"Gowanus",
+				"Park Slope"
+			],
+			"neighborhood": "Boerum Hill",
+			"state": "New York",
+			"subway_lines": [
+				"N",
+				"A",
+				"F",
+				"D",
+				"4",
+				"R",
+				"5",
+				"G",
+				"2",
+				"3",
+				"C"
+			],
+			"zipCodes": [
+				"11201",
+				"11217"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Greenwood Heights",
+				"Kensington",
+				"Parkville",
+				"Dyker Heights",
+				"Midwood",
+				"Mapleton",
+				"Sunset Park",
+				"Bensonhurst",
+				"Windsor Terrace"
+			],
+			"neighborhood": "Borough Park",
+			"state": "New York",
+			"subway_lines": [
+				"F",
+				"D"
+			],
+			"zipCodes": [
+				"11204",
+				"11218",
+				"11219",
+				"11220",
+				"11230"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Sheepshead Bay",
+				"Coney Island",
+				"Manhattan Beach",
+				"Gravesend"
+			],
+			"neighborhood": "Brighton Beach",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"B"
+			],
+			"zipCodes": [
+				"11224",
+				"11235"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Dumbo",
+				"Downtown Brooklyn",
+				"Cobble Hill"
+			],
+			"neighborhood": "Brooklyn Heights",
+			"state": "New York",
+			"subway_lines": [
+				"A",
+				"4",
+				"R",
+				"5",
+				"2",
+				"3",
+				"C"
+			],
+			"zipCodes": [
+				"10004",
+				"11201"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bushwick",
+				"East New York",
+				"Glendale",
+				"Cypress Hills",
+				"East Flatbush",
+				"Canarsie",
+				"Crown Heights",
+				"Bedford - Stuyvesant"
+			],
+			"neighborhood": "Brownsville",
+			"state": "New York",
+			"subway_lines": [
+				"L",
+				"J",
+				"C"
+			],
+			"zipCodes": [
+				"11207",
+				"11212",
+				"11233",
+				"11236"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bedford-Stuyvesant",
+				"Ridgewood",
+				"Williamsburg"
+			],
+			"neighborhood": "Bushwick",
+			"state": "New York",
+			"subway_lines": [
+				"M"
+			],
+			"zipCodes": [
+				"11206",
+				"11207",
+				"11221",
+				"11233",
+				"11237",
+				"11385"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bergen Beach",
+				"East New York",
+				"Flatlands",
+				"Brownsville",
+				"East Flatbush"
+			],
+			"neighborhood": "Canarsie",
+			"state": "New York",
+			"subway_lines": [
+				"L"
+			],
+			"zipCodes": [
+				"11234",
+				"11236",
+				"11239"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Cobble Hill",
+				"Boerum Hill",
+				"Gowanus",
+				"Red Hook"
+			],
+			"neighborhood": "Carroll Gardens",
+			"state": "New York",
+			"subway_lines": [
+				"F",
+				"G"
+			],
+			"zipCodes": [
+				"11201",
+				"11231"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Crown Heights",
+				"Prospect Heights",
+				"Flatbush"
+			],
+			"neighborhood": "Clinton Hill",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"B"
+			],
+			"zipCodes": [
+				"11205",
+				"11211",
+				"11238"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Brooklyn Heights",
+				"Boerum Hill",
+				"Caroll Gardens"
+			],
+			"neighborhood": "Cobble Hill",
+			"state": "New York",
+			"subway_lines": [
+				"F",
+				"G"
+			],
+			"zipCodes": [
+				"11201",
+				"11231"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Sheepshead Bay",
+				"Gravesend",
+				"Sea Gate",
+				"Brighton Beach"
+			],
+			"neighborhood": "Coney Island",
+			"state": "New York",
+			"subway_lines": [
+				"N",
+				"Q",
+				"F",
+				"D"
+			],
+			"zipCodes": [
+				"11214",
+				"11224",
+				"11235"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bedford-Stuyvesant",
+				"Prospect Heights",
+				"Prospect Lefferts Gardens",
+				"Stuyvesant Heights"
+			],
+			"neighborhood": "Crown Heights",
+			"state": "New York",
+			"subway_lines": [
+				"A",
+				"4",
+				"5",
+				"G",
+				"2",
+				"3",
+				"C"
+			],
+			"zipCodes": [
+				"11213",
+				"11216",
+				"11225",
+				"11233",
+				"11238"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bushwick",
+				"Woodhaven",
+				"East New York",
+				"Glendale",
+				"Brownsville",
+				"Highland Park",
+				"Ozone Park",
+				"Bedford - Stuyvesant"
+			],
+			"neighborhood": "Cypress Hills",
+			"state": "New York",
+			"subway_lines": [
+				"J"
+			],
+			"zipCodes": [
+				"11207",
+				"11208",
+				"11239"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Flatbush",
+				"Kensington",
+				"Prospect Park South"
+			],
+			"neighborhood": "Ditmas Park",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"B"
+			],
+			"zipCodes": [
+				"11226"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Dumbo",
+				"Brooklyn Heights",
+				"Fort Greene",
+				"Boerum Hill"
+			],
+			"neighborhood": "Downtown Brooklyn",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"A",
+				"B",
+				"F",
+				"D",
+				"4",
+				"R",
+				"5",
+				"G",
+				"2",
+				"C"
+			],
+			"zipCodes": [
+				"11201"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Vinegar Hill",
+				"Downtown Brooklyn",
+				"Brooklyn Heights"
+			],
+			"neighborhood": "DUMBO",
+			"state": "New York",
+			"subway_lines": [
+				"A",
+				"F",
+				"C"
+			],
+			"zipCodes": [
+				"11201"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bath Beach",
+				"Bay Ridge",
+				"Fort Hamilton",
+				"Borough Park",
+				"Sunset Park",
+				"Bensonhurst"
+			],
+			"neighborhood": "Dyker Heights",
+			"state": "New York",
+			"subway_lines": [
+				"N",
+				"R",
+				"D"
+			],
+			"zipCodes": [
+				"11209",
+				"11219",
+				"11220",
+				"11228"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bergen Beach",
+				"Flatlands",
+				"Brownsville",
+				"Prospect Lefferts Gardens",
+				"Midwood",
+				"Wingate",
+				"Ditmas Park",
+				"Flatbush",
+				"Canarsie",
+				"Crown Heights"
+			],
+			"neighborhood": "East Flatbush",
+			"state": "New York",
+			"subway_lines": [
+				"2",
+				"5"
+			],
+			"zipCodes": [
+				"11203",
+				"11210",
+				"11212",
+				"11236"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Canarsie",
+				"Brownsville",
+				"Crown Heights"
+			],
+			"neighborhood": "East New York",
+			"state": "New York",
+			"subway_lines": [
+				"A",
+				"L",
+				"4",
+				"2",
+				"J",
+				"C"
+			],
+			"zipCodes": [
+				"11207",
+				"11208",
+				"11212",
+				"11233",
+				"11236",
+				"11239",
+				"11385",
+				"11414",
+				"11421"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bushwick",
+				"Maspeth",
+				"Greenpoint",
+				"Ridgewood",
+				"Williamsburg",
+				"Bedford - Stuyvesant"
+			],
+			"neighborhood": "East Williamsburg",
+			"state": "New York",
+			"subway_lines": [
+				"L",
+				"G"
+			],
+			"zipCodes": [
+				"11222",
+				"11211",
+				"11378",
+				"11237",
+				"11206"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [],
+			"neighborhood": "Farragut",
+			"state": "New York",
+			"subway_lines": [
+				"L",
+				"2",
+				"5",
+				"B"
+			],
+			"zipCodes": [
+				"11210",
+				"11203"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Ditmas Park",
+				"Prospect Lefferts Gardens",
+				"Prospect Park South"
+			],
+			"neighborhood": "Flatbush",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"B"
+			],
+			"zipCodes": [
+				"11203",
+				"11210",
+				"11218",
+				"11225",
+				"11226",
+				"11230"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bergen Beach",
+				"Midwood",
+				"Ditmas Park",
+				"Flatbush",
+				"East Flatbush",
+				"Canarsie",
+				"Marine Park",
+				"Mill Basin"
+			],
+			"neighborhood": "Flatlands",
+			"state": "New York",
+			"subway_lines": [
+				"L"
+			],
+			"zipCodes": [
+				"11210",
+				"11234",
+				"11236"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Downtown Brooklyn",
+				"Boerum Hill",
+				"Prospect Heights",
+				"Clinton Hill"
+			],
+			"neighborhood": "Fort Greene",
+			"state": "New York",
+			"subway_lines": [
+				"N",
+				"Q",
+				"A",
+				"B",
+				"D",
+				"4",
+				"R",
+				"5",
+				"G",
+				"2",
+				"3",
+				"C"
+			],
+			"zipCodes": [
+				"11201",
+				"11205",
+				"11217",
+				"11238"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Sunset Park",
+				"Dyker Heights"
+			],
+			"neighborhood": "Fort Hamilton",
+			"state": "New York",
+			"subway_lines": [
+				"R"
+			],
+			"zipCodes": [
+				"11209",
+				"11228",
+				"11425"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bergen Beach",
+				"East Flatbush",
+				"Flatlands"
+			],
+			"neighborhood": "Georgetown",
+			"state": "New York",
+			"subway_lines": [
+				"F"
+			],
+			"zipCodes": [
+				"ZIP Code 11234",
+				"",
+				"11234"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Sheepshead Bay",
+				"Marine Park"
+			],
+			"neighborhood": "Gerritsen Beach",
+			"state": "New York",
+			"subway_lines": [
+				"Q"
+			],
+			"zipCodes": [
+				"ZIP Code 11229",
+				"",
+				"11229",
+				"11235"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Red Hook",
+				"Park Slope",
+				"Boerum Hill"
+			],
+			"neighborhood": "Gowanus",
+			"state": "New York",
+			"subway_lines": [
+				"R",
+				"F",
+				"G"
+			],
+			"zipCodes": [
+				"11201",
+				"11215",
+				"11217",
+				"11231",
+				"11232"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bath Beach",
+				"Brighton Beach",
+				"Coney Island",
+				"Midwood",
+				"Mapleton",
+				"Sheepshead Bay",
+				"Sea Gate",
+				"Bensonhurst"
+			],
+			"neighborhood": "Gravesend",
+			"state": "New York",
+			"subway_lines": [
+				"N",
+				"F"
+			],
+			"zipCodes": [
+				"11223",
+				"11224",
+				"11235"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Williamsburg",
+				"Long Island City"
+			],
+			"neighborhood": "Greenpoint",
+			"state": "New York",
+			"subway_lines": [
+				"G"
+			],
+			"zipCodes": [
+				"11101",
+				"11211",
+				"11222"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Park Slope",
+				"Sunset Park",
+				"Windsor Terrace"
+			],
+			"neighborhood": "Greenwood Heights",
+			"state": "New York",
+			"subway_lines": [
+				"R",
+				"G",
+				"D"
+			],
+			"zipCodes": [
+				"11232"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"East New York",
+				"Glendale",
+				"Cypress Hills"
+			],
+			"neighborhood": "Highland Park",
+			"state": "New York",
+			"subway_lines": [
+				"L",
+				"J"
+			],
+			"zipCodes": [
+				"11207",
+				"11385",
+				"11208"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Marine Park",
+				"Midwood",
+				"Sheepshead Bay"
+			],
+			"neighborhood": "Homecrest",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"B"
+			],
+			"zipCodes": [
+				"11223",
+				"11229"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Prospect Park South",
+				"Flatbush - Ditmas Park",
+				"Borough Park"
+			],
+			"neighborhood": "Kensington",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"F",
+				"G",
+				"B"
+			],
+			"zipCodes": [
+				"11204",
+				"11215",
+				"11218",
+				"11230"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Sheepshead Bay",
+				"Brighton Beach"
+			],
+			"neighborhood": "Manhattan Beach",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"B"
+			],
+			"zipCodes": [
+				"11235"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Homecrest",
+				"Midwood"
+			],
+			"neighborhood": "Manhattan Terrace Brooklyn",
+			"state": "New York",
+			"subway_lines": [
+				"Q"
+			],
+			"zipCodes": [
+				"11230",
+				"11210",
+				"11229"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Gravesend",
+				"Parkville",
+				"Kensington",
+				"Midwood",
+				"Borough Park",
+				"Bensonhurst"
+			],
+			"neighborhood": "Mapleton",
+			"state": "New York",
+			"subway_lines": [
+				"A",
+				"6",
+				"B",
+				"L",
+				"S",
+				"J",
+				"C"
+			],
+			"zipCodes": [
+				"84663",
+				"84664"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Flatlands",
+				"Midwood",
+				"Mill Basin",
+				"Sheepshead Bay"
+			],
+			"neighborhood": "Marine Park",
+			"state": "New York",
+			"subway_lines": [
+				"Q"
+			],
+			"zipCodes": [
+				"11229",
+				"11234"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Gravesend",
+				"Parkville",
+				"Flatlands",
+				"Kensington",
+				"Borough Park",
+				"Mapleton",
+				"Sheepshead Bay",
+				"Ditmas Park",
+				"Flatbush",
+				"East Flatbush",
+				"Marine Park",
+				"Bensonhurst"
+			],
+			"neighborhood": "Midwood",
+			"state": "New York",
+			"subway_lines": [
+				"Q"
+			],
+			"zipCodes": [
+				"11210",
+				"11229",
+				"11230",
+				"11234"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bergen Beach",
+				"Marine Park",
+				"Flatlands"
+			],
+			"neighborhood": "Mill Basin",
+			"state": "New York",
+			"subway_lines": [
+				"L",
+				"Q",
+				"2"
+			],
+			"zipCodes": [
+				"ZIP Code 11234",
+				"",
+				"11234"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Fort Greene",
+				"Downtown Brooklyn",
+				"Clinton Hill",
+				"Vinegar Hill",
+				"Williamsburg",
+				"Bedford - Stuyvesant"
+			],
+			"neighborhood": "Navy Yard",
+			"state": "New York",
+			"subway_lines": [
+				"A",
+				"B",
+				"F",
+				"3",
+				"C"
+			],
+			"zipCodes": [
+				"11201",
+				"11205",
+				"11211"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Gowanus",
+				"Prospect Heights"
+			],
+			"neighborhood": "Park Slope",
+			"state": "New York",
+			"subway_lines": [
+				"N",
+				"Q",
+				"B",
+				"F",
+				"D",
+				"4",
+				"R",
+				"5",
+				"G",
+				"2",
+				"3"
+			],
+			"zipCodes": [
+				"11215",
+				"11217",
+				"11238"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Greenwood Heights",
+				"Midwood",
+				"Borough Park",
+				"Mapleton",
+				"Prospect Park South",
+				"Ditmas Park",
+				"Flatbush",
+				"Windsor Terrace"
+			],
+			"neighborhood": "Parkville",
+			"state": "New York",
+			"subway_lines": [
+				"A",
+				"6",
+				"B",
+				"L",
+				"S",
+				"J",
+				"C"
+			],
+			"zipCodes": [
+				"11230"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Sheepshead Bay",
+				"Marine Park"
+			],
+			"neighborhood": "Plumb Beach",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"B"
+			],
+			"zipCodes": [
+				"11235"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Clinton Hill",
+				"Fort Greene",
+				"Park Slope"
+			],
+			"neighborhood": "Prospect Heights",
+			"state": "New York",
+			"subway_lines": [
+				"N",
+				"Q",
+				"A",
+				"B",
+				"D",
+				"4",
+				"R",
+				"5",
+				"2",
+				"3",
+				"C"
+			],
+			"zipCodes": [
+				"11217",
+				"11238"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Crown Heights",
+				"Prospect Heights",
+				"Flatbush"
+			],
+			"neighborhood": "Prospect Lefferts Gardens",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"B"
+			],
+			"zipCodes": [
+				"11225",
+				"11226"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Kensington",
+				"Flatbush-Ditmas Park",
+				"Prospect Lefferts Gardens"
+			],
+			"neighborhood": "Prospect Park South",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"F",
+				"5",
+				"G",
+				"2"
+			],
+			"zipCodes": [
+				"11218",
+				"11226"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Carroll Gardens",
+				"Gowanus",
+				"Columbia St",
+				"Waterfront District"
+			],
+			"neighborhood": "Red Hook",
+			"state": "New York",
+			"subway_lines": [
+				"F",
+				"G"
+			],
+			"zipCodes": [
+				"11201",
+				"11215",
+				"11231"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bergen Beach",
+				"Flatlands",
+				"Brownsville",
+				"Prospect Lefferts Gardens",
+				"Midwood",
+				"Wingate",
+				"Ditmas Park",
+				"Flatbush",
+				"Canarsie",
+				"Crown Heights"
+			],
+			"neighborhood": "Remsen Village",
+			"state": "New York",
+			"subway_lines": [
+				"4",
+				"3",
+				"5"
+			],
+			"zipCodes": [
+				"13438"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Coney Island",
+				"Gravesend"
+			],
+			"neighborhood": "Sea Gate",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"F"
+			],
+			"zipCodes": [
+				"11224"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Gravesend",
+				"Brighton Beach",
+				"Coney Island",
+				"Manhattan Beach",
+				"Midwood",
+				"Gerritsen Beach",
+				"Marine Park",
+				"Bensonhurst"
+			],
+			"neighborhood": "Sheepshead Bay",
+			"state": "New York",
+			"subway_lines": [
+				"Q",
+				"B"
+			],
+			"zipCodes": [
+				"11229",
+				"11234",
+				"11235"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"East New York"
+			],
+			"neighborhood": "Spring Creek",
+			"state": "New York",
+			"subway_lines": [
+				"L",
+				"3",
+				"Z"
+			],
+			"zipCodes": [
+				"11239",
+				"11208"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Bushwick",
+				"East New York",
+				"Glendale",
+				"Brownsville",
+				"Prospect Heights",
+				"East Williamsburg",
+				"Cypress Hills",
+				"Crown Heights",
+				"Clinton Hill",
+				"Brooklyn Navy Yard",
+				"Williamsburg"
+			],
+			"neighborhood": "Stuyvesant Heights",
+			"state": "New York",
+			"subway_lines": [
+				"A",
+				"C"
+			],
+			"zipCodes": [
+				"11213",
+				"11233",
+				"11221",
+				"11206"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Greenwood Heights",
+				"Bay Ridge",
+				"Borough Park"
+			],
+			"neighborhood": "Sunset Park",
+			"state": "New York",
+			"subway_lines": [
+				"N",
+				"R",
+				"D"
+			],
+			"zipCodes": [
+				"11219",
+				"11220",
+				"11232"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Downtown Brooklyn",
+				"Dumbo",
+				"Fort Greene"
+			],
+			"neighborhood": "Vinegar Hill",
+			"state": "New York",
+			"subway_lines": [
+				"A",
+				"B",
+				"F",
+				"3",
+				"C"
+			],
+			"zipCodes": [
+				"11201",
+				"11205"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Brownsville",
+				"Bedford Stuyvesant",
+				"Crown Heights"
+			],
+			"neighborhood": "Weeksville",
+			"state": "New York",
+			"subway_lines": [
+				"A",
+				"6",
+				"B",
+				"L",
+				"S",
+				"J",
+				"C"
+			],
+			"zipCodes": [
+				"11213",
+				"11233"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Greenpoint",
+				"Clinton Hill",
+				"Bed-Stuy",
+				"Bushwick"
+			],
+			"neighborhood": "Williamsburg",
+			"state": "New York",
+			"subway_lines": [
+				"L",
+				"J",
+				"G",
+				"M"
+			],
+			"zipCodes": [
+				"11205",
+				"11206",
+				"11211",
+				"11222",
+				"11237",
+				"11378",
+				"11385"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Prospect Park South",
+				"Kensington",
+				"Park Slope"
+			],
+			"neighborhood": "Windsor Terrace",
+			"state": "New York",
+			"subway_lines": [
+				"F",
+				"G"
+			],
+			"zipCodes": [
+				"11215",
+				"11218"
+			]
+		},
+		{
+			"borough": "Brooklyn",
+			"nearby_neighborhoods": [
+				"Prospect Lefferts Gardens",
+				"Crown Heights",
+				"East Flatbush"
+			],
+			"neighborhood": "Wingate",
+			"state": "New York",
+			"subway_lines": [
+				"A",
+				"B",
+				"E",
+				"2",
+				"W",
+				"C"
+			],
+			"zipCodes": [
+				"11203",
+				"11213",
+				"11225"
+			]
+		}
+	]
+}
