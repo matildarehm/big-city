@@ -1,0 +1,434 @@
+{
+    "manhattan": [
+        {
+            "zipCodes": [
+                "10280",
+                "10007"
+            ],
+            "neighborhood": "Battery Park City"
+        },
+        {
+            "zipCodes": [
+                "10028",
+                "10128"
+            ],
+            "neighborhood": "Carnegie Hill"
+        },
+        {
+            "zipCodes": [
+                "10001",
+                "10011",
+                "10014",
+                "10018",
+                "10019",
+                "10020",
+                "10036",
+                "10199"
+            ],
+            "neighborhood": "Chelsea"
+        },
+        {
+            "zipCodes": [
+                "10002",
+                "10013",
+                "10038"
+            ],
+            "neighborhood": "Chinatown"
+        },
+        {
+            "zipCodes": [
+                "10002",
+                "10013",
+                "10038",
+                "10007"
+            ],
+            "neighborhood": "Civic Center"
+        },
+        {
+            "zipCodes": [
+                "10029",
+                "10035",
+                "10037",
+                "10128"
+            ],
+            "neighborhood": "East Harlem"
+        },
+        {
+            "zipCodes": [
+                "10002",
+                "10003",
+                "10009",
+                "10012"
+            ],
+            "neighborhood": "East Village"
+        },
+        {
+            "zipCodes": [
+                "10018",
+                "10001"
+            ],
+            "neighborhood": "Fashion District"
+        },
+        {
+            "zipCodes": [
+                "10004",
+                "10005",
+                "10006",
+                "10007",
+                "10038",
+                "10271",
+                "10280",
+                "10282"
+            ],
+            "neighborhood": "Financial District"
+        },
+        {
+            "zipCodes": [
+                "10010",
+                "10011",
+                "10012"
+            ],
+            "neighborhood": "Flatiron"
+        },
+        {
+            "zipCodes": [
+                "10040"
+            ],
+            "neighborhood": "Fort George"
+        },
+        {
+            "zipCodes": [
+                "10003",
+                "10009",
+                "10010",
+                "10016",
+                "10017",
+                "10022"
+            ],
+            "neighborhood": "Gramercy"
+        },
+        {
+            "zipCodes": [
+                "10003",
+                "10011",
+                "10012",
+                "10013",
+                "10014"
+            ],
+            "neighborhood": "Greenwich Village"
+        },
+        {
+            "zipCodes": [
+                "10027",
+                "10031",
+                "10032"
+            ],
+            "neighborhood": "Hamilton Heights"
+        },
+        {
+            "zipCodes": [
+                "10026",
+                "10027",
+                "10030",
+                "10031",
+                "10032",
+                "10037",
+                "10039"
+            ],
+            "neighborhood": "Harlem"
+        },
+        {
+            "zipCodes": [
+                "10001",
+                "10011",
+                "10018",
+                "10019",
+                "10020",
+                "10036",
+                "10036",
+                "10019"
+            ],
+            "neighborhood": "Hell's Kitchen"
+        },
+        {
+            "zipCodes": [
+                "12534"
+            ],
+            "neighborhood": "Hudson Square"
+        },
+        {
+            "zipCodes": [
+                "10031",
+                "10032",
+                "10033",
+                "10034",
+                "10040",
+                "10463"
+            ],
+            "neighborhood": "Inwood"
+        },
+        {
+            "zipCodes": [
+                "10001",
+                "10018"
+            ],
+            "neighborhood": "Koreatown"
+        },
+        {
+            "zipCodes": [
+                "10021"
+            ],
+            "neighborhood": "Lenox Hill"
+        },
+        {
+            "zipCodes": [
+                "10023"
+            ],
+            "neighborhood": "Lincoln Square"
+        },
+        {
+            "zipCodes": [
+                "10012",
+                "10013"
+            ],
+            "neighborhood": "Little Italy"
+        },
+        {
+            "zipCodes": [
+                "10002",
+                "10004",
+                "10005",
+                "10006",
+                "10007",
+                "10009",
+                "10013",
+                "10038",
+                "10278",
+                "10280"
+            ],
+            "neighborhood": "Lower East Side"
+        },
+        {
+            "zipCodes": [
+                "10027",
+                "10031"
+            ],
+            "neighborhood": "Manhattanville"
+        },
+        {
+            "zipCodes": [
+                "10463"
+            ],
+            "neighborhood": "Marble Hill"
+        },
+        {
+            "zipCodes": [
+                "10014"
+            ],
+            "neighborhood": "Meatpacking District"
+        },
+        {
+            "zipCodes": [
+                "10017",
+                "10018",
+                "10022",
+                "10036"
+            ],
+            "neighborhood": "Midtown Manhattan"
+        },
+        {
+            "zipCodes": [
+                "10010",
+                "10022",
+                "10017",
+                "10016"
+            ],
+            "neighborhood": "Midtown East"
+        },
+        {
+            "zipCodes": [
+                "10001"
+            ],
+            "neighborhood": "Midtown South"
+        },
+        {
+            "zipCodes": [
+                "10024",
+                "10025",
+                "10026",
+                "10027",
+                "10115"
+            ],
+            "neighborhood": "Morningside Heights"
+        },
+        {
+            "zipCodes": [
+                "10016",
+                "10017",
+                "10022",
+                "10165",
+                "10168"
+            ],
+            "neighborhood": "Murray Hill"
+        },
+        {
+            "zipCodes": [
+                "10003",
+                "10012"
+            ],
+            "neighborhood": "NoHo"
+        },
+        {
+            "zipCodes": [
+                "10012"
+            ],
+            "neighborhood": "Nolita"
+        },
+        {
+            "zipCodes": [
+                "10010"
+            ],
+            "neighborhood": "Nomad"
+        },
+        {
+            "zipCodes": [
+                "10028",
+                "10044",
+                "11106"
+            ],
+            "neighborhood": "Roosevelt Island"
+        },
+        {
+            "zipCodes": [
+                "10012",
+                "10013",
+                "10014"
+            ],
+            "neighborhood": "SoHo"
+        },
+        {
+            "zipCodes": [
+                "10009",
+                "10010"
+            ],
+            "neighborhood": "Stuyvesant Town"
+        },
+        {
+            "zipCodes": [
+                "10021",
+                "10022"
+            ],
+            "neighborhood": "Sutton Place"
+        },
+        {
+            "zipCodes": [
+                "10019",
+                "10036"
+            ],
+            "neighborhood": "Theater District"
+        },
+        {
+            "zipCodes": [
+                "10108",
+                "10109"
+            ],
+            "neighborhood": "Times Square"
+        },
+        {
+            "zipCodes": [
+                "10006",
+                "10007",
+                "10013",
+                "10014",
+                "10038",
+                "10278",
+                "10279",
+                "10280",
+                "10282"
+            ],
+            "neighborhood": "Tribeca"
+        },
+        {
+            "zipCodes": [
+                "10017",
+                "10022",
+                "10174"
+            ],
+            "neighborhood": "Turtle Bay"
+        },
+        {
+            "zipCodes": [
+                "10002",
+                "10038"
+            ],
+            "neighborhood": "Two Bridges"
+        },
+        {
+            "zipCodes": [
+                "10003",
+                "10009",
+                "10011",
+                "10014"
+            ],
+            "neighborhood": "14th Street Union Square"
+        },
+        {
+            "zipCodes": [
+                "10021",
+                "10022",
+                "10028",
+                "10029",
+                "10044",
+                "10065",
+                "10075",
+                "10128",
+                "10162"
+            ],
+            "neighborhood": "Upper East Side"
+        },
+        {
+            "zipCodes": [
+                "10019",
+                "10023",
+                "10024",
+                "10025",
+                "10026",
+                "10069"
+            ],
+            "neighborhood": "Upper West Side"
+        },
+        {
+            "zipCodes": [
+                "10038",
+                "10006",
+                "10004",
+                "10005"
+            ],
+            "neighborhood": "Wall Street"
+        },
+        {
+            "zipCodes": [
+                "10031",
+                "10032",
+                "10033",
+                "10034",
+                "10039",
+                "10040"
+            ],
+            "neighborhood": "Washington Heights"
+        },
+        {
+            "zipCodes": [
+                "10011",
+                "10014"
+            ],
+            "neighborhood": "West Village"
+        },
+        {
+            "zipCodes": [
+                "13495"
+            ],
+            "neighborhood": "Yorkville"
+        }
+    ]
+}

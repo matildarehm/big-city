@@ -8,7 +8,6 @@ from csv import writer
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from selenium import webdriver
-from tabulate import tabulate
 
 # environment variables
 load_dotenv()
@@ -39,14 +38,29 @@ def get_compass_details(driver, url):
     return [subway_stations, nearby]
 
 
+def google_search_request(search, search_definition):
+    page_search = requests.get(f"https://www.google.com/search?q={search + search_definition}")
+    page_soup = BeautifulSoup(page_search.content, "html.parser")
+    all_links = page_soup.find("a", href=re.compile(r"(moovitapp)")).attrs['href']
+    parsed_list = re.split(r"&|\?q=|\?sa=", all_links)
+    parsed_link = [link for link in parsed_list if link.startswith("http")][0]
+    return parsed_link
+
+
+def google_search_driver(search, search_definition, driver):
+    driver.get(f"https://www.google.com/search?q={search + search_definition}")
+    page_soup = BeautifulSoup(driver.page_source, "html.parser")
+    urban_edge_list = page_soup.find_all("a")
+    urban_edge_pattern = re.compile(r"(urbanedge.apartments)")
+    ue_list = [x.get("href") for x in urban_edge_list if urban_edge_pattern.search(str(x.get("href")))]
+    urban_link = [link for link in ue_list if link.startswith("http")][0]
+    return urban_link
+
+
 def get_moovit_details(driver, search):
     subway_lines = "nearby nyc subway lines moovit"
-    page_search = requests.get(f"https://www.google.com/search?q={search + subway_lines}")
-    page_soup = BeautifulSoup(page_search.content, "html.parser")
-    moovit_link = page_soup.find("a", href=re.compile(r"(moovitapp)")).attrs['href']
-    moovit_list = re.split(r"&|\?q=|\?sa=", moovit_link)
-    parsed_moovit_link = [link for link in moovit_list if link.startswith("http")][0]
-    driver.get(parsed_moovit_link)
+    moovit_link = google_search_request(search, subway_lines)
+    driver.get(moovit_link)
     other_page_source = BeautifulSoup(driver.page_source, "html.parser")
     other_subway_stations = other_page_source.find_all("a", {"class": "line-link"})
     return other_subway_stations
@@ -72,26 +86,47 @@ def get_aliases():
     aliases["Midtown South Central"] = "Midtown South"
     aliases["Gramercy Park"] = "Gramercy"
     aliases["Clinton"] = "Hells Kitchen"
+    aliases["Stuyvesant"] = "Stuyvesant Heights"
+    aliases["Greenwood"] = "Greenwood Heights"
     return aliases
 
 
+def search_for_unknown(search, borough, alias, renamed):
+    """
+    :param search: Search query term
+    :param borough: Name of borough to search
+    :param alias: Alias of neighborhood
+    :param renamed: Aliases dictionary store
+    :return: Boolean -> Based on whether or not the neighborhood was found
+            True - Was unknown and not found
+            False - Was found
+    """
+    no_apostrophes = str(alias).replace("'", "")
+    if no_apostrophes in list(renamed.keys()):
+        no_apostrophes = renamed[no_apostrophes]
+    if no_apostrophes not in borough.values:
+        print("NO APOSTROPHES" + no_apostrophes + "done")
+        with open('./neighborhoods/unable_to_find.csv', 'a') as f_object:
+            writer_object = writer(f_object)
+            writer_object.writerow([search, alias])
+            f_object.close()
+        return True
+    return False
+
+
 def get_urban_edge_details(driver, search, borough):
-    renamed = get_aliases()
+    renamed, all_neighborhoods = get_aliases(), []
 
     neighborhood = " urbanedge nyc nearby neighborhoods"
-    page_search = driver.get(f"https://www.google.com/search?q={search + neighborhood}")
-    page_soup = BeautifulSoup(driver.page_source, "html.parser")
-    urban_edge_list = page_soup.find_all("a")
-    urban_edge_pattern = re.compile(r"(urbanedge.apartments)")
-    ue_list = [x.get("href") for x in urban_edge_list if urban_edge_pattern.search(str(x.get("href")))]
-    parsed_urban_link = [link for link in ue_list if link.startswith("http")][0]
+    urban_link = google_search_driver(search, neighborhood, driver)
     driver = webdriver.Firefox(executable_path=GECKO_DRIVER, log_path='./logs/geckodriver.log')
-    driver.get(parsed_urban_link)
+    driver.get(urban_link)
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
     time.sleep(10)
-    all_neighborhoods = []
     other_page_source = BeautifulSoup(driver.page_source, "html.parser")
     other_neighborhoods = other_page_source.find_all("section", {"class": "nearby-neighborhoods"})
+
     for section in other_neighborhoods:
         neighborhood_area = section.find_all("h3")
         for area in neighborhood_area:
@@ -100,17 +135,14 @@ def get_urban_edge_details(driver, search, borough):
             if len(aliases) > 1:
                 for x in aliases:
                     no_apostrophes = str(x).replace("'", "")
-                    if no_apostrophes in list(renamed.keys()):
-                        no_apostrophes = renamed[no_apostrophes]
-                    if no_apostrophes not in borough.values:
-                        print("NO APOSTROPHES" + no_apostrophes + area_text + "done")
-                        with open('./neighborhoods/unable_to_find.csv', 'a') as f_object:
-                            writer_object = writer(f_object)
-                            writer_object.writerow([search, x])
-                            f_object.close()
-                    else:
+                    if not search_for_unknown(search, borough, x, renamed):
                         all_neighborhoods.append(no_apostrophes)
-
+            elif len(area_text.split(" & ")) > 1:
+                aliases = area_text.split(" & ")
+                for x in aliases:
+                    no_apostrophes = str(x).replace("'", "")
+                    if not search_for_unknown(search, borough, x, renamed):
+                        all_neighborhoods.append(no_apostrophes)
             else:
                 no_apostrophes = str(area_text).replace("'", "")
                 if no_apostrophes in list(renamed.keys()):
@@ -163,12 +195,10 @@ def call_selenium_drivers(url, search, borough):
 
 
 def get_subway_stations(dataframes):
-    borough_data = dataframes[0]
-    column_name = dataframes[1]
+    borough_data, column_name = dataframes
 
-    borough_data["url_names"] = borough_data[column_name].str.lower()
-    borough_data["url_names"] = borough_data["url_names"].str.replace(" ", "-")
-    borough_data["search_names"] = borough_data["url_names"].str.replace("-", " ")
+    borough_data["search_names"] = borough_data[column_name].str.lower()
+    borough_data["url_names"] = borough_data["search_names"].str.replace(" ", "-")
 
     borough_data["neighborhoods"] = borough_data.apply(lambda row: call_selenium_drivers(row["url_names"],
                                                                                          row["search_names"],
@@ -178,11 +208,7 @@ def get_subway_stations(dataframes):
     borough_data['borough'] = column_name
     borough_data['state'] = "New York"
     borough_data["neighborhood"] = borough_data[column_name]
-    del borough_data["neighborhoods"]
-    del borough_data[column_name]
-    del borough_data['url_names']
-    del borough_data['search_names']
-    print(tabulate(borough_data, headers=["neighborhood", "subway_lines", "nearby_neighborhoods", "borough", "states"], tablefmt='grid'))
+    borough_data.drop([column_name, 'url_names', 'search_names', 'neighborhoods'], axis=1)
     return borough_data
 
 
@@ -192,16 +218,25 @@ def write_json(data, filename):
 
 
 def convert_borough_data(borough, borough_name):
-    # print(data[borough_name])
-
     with open('../scraped_data/neighborhood_schema/' + borough_name + ".json", 'w', encoding='utf-8') as json_file:
         borough_json = borough.to_json(orient="records")
         parsed_json = json.loads(borough_json)
-        print(parsed_json)
-        json_dump = json.dumps(parsed_json)
-        borough_dict = { borough_name: list(parsed_json) }
-        print(borough_dict)
+        borough_dict = {borough_name: list(parsed_json)}
         json.dump(borough_dict, json_file, ensure_ascii=False, indent=4)
+
+
+def borough_parse(parse, borough, borough_name):
+    if parse != "skip":
+        df_arr = parse_neighborhoods(borough)
+        borough_data = get_subway_stations(df_arr)
+        convert_to_json = input("Convert " + borough_name + " data to json format? (yes/no) => ")
+        if convert_to_json == "yes":
+            print("Writing to file ...")
+            convert_borough_data(borough_data, borough_name.lower())
+        else:
+            print("Will not convert data json ...")
+    else:
+        print("Skipping borough: " + borough_name + " ... ")
 
 
 def main():
@@ -209,17 +244,8 @@ def main():
     for borough in borough_files:
         name = borough.split(".")[0].replace("-", " ").title()
         parse_borough = input(name + " => ")
-        if parse_borough != "skip":
-            df_arr = parse_neighborhoods(borough)
-            borough_data = get_subway_stations(df_arr)
-            convert_to_json = input("Convert " + name + " data to json format? (yes/no) => ")
-            if convert_to_json == "yes":
-                print("Writing to file ...")
-                convert_borough_data(borough_data, name.lower())
-            else:
-                print("Will not convert data json ...")
-        else:
-            print("Skipping borough: " + name + " ... ")
+        borough_parse(parse_borough, borough, name)
+
 
 
 if __name__ == '__main__':
