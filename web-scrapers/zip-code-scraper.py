@@ -121,7 +121,7 @@ def get_zip_codes(dataframes):
     borough_data["zipCodes"] = borough_data.apply(lambda row: call_selenium_drivers(row["url_names"], row["search_names"]), axis=1)
     borough_data["neighborhood"] = borough_data[column_name]
 
-    borough_data.drop([column_name, 'url_names', 'search_names'], axis=1)
+    borough_data = borough_data.drop([column_name, 'url_names', 'search_names'], axis=1)
     return borough_data
 
 

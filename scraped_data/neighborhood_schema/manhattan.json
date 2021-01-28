@@ -45,7 +45,7 @@
 				"West Village",
 				"Flatiron District",
 				"NoMad",
-				"Hell's Kitchen",
+				"Hell\u2019s Kitchen",
 				"Fashion District"
 			],
 			"neighborhood": "Chelsea",
@@ -883,7 +883,7 @@
 				"Little Italy",
 				"Chinatown",
 				"Lower East Side",
-				"Financial District",
+				"Financial DIstrict",
 				"Battery Park City"
 			],
 			"neighborhood": "Tribeca",
@@ -988,7 +988,7 @@
 		{
 			"borough": "Manhattan",
 			"nearby_neighborhoods": [
-				"Hell's Kitchen",
+				"Hell\u2019s Kitchen",
 				"Theatre District",
 				"Morningside Heights",
 				"Harlem"

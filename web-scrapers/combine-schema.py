@@ -12,8 +12,8 @@ def combine_schema(borough_name):
                 neighborhood_data = json.load(zipcode_file)
                 for neighborhood in neighborhood_data[borough_name]:
                     neighborhood["zipCodes"] = zipCodes["zipCodes"]
-    with open('../scraped_data/neighborhood_schema/' + borough_name + ".json", 'w', encoding='utf-8') as combined_file:
-        json.dump(neighborhood_data, combined_file, sort_keys=True, indent='\t', separators=(',', ': '))
+                    with open('../scraped_data/neighborhood_schema/' + borough_name + ".json", 'w', encoding='utf-8') as combined_file:
+                        json.dump(neighborhood_data, combined_file, sort_keys=True, indent='\t', separators=(',', ': '))
 
 
 def main():

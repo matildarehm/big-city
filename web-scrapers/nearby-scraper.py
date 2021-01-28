@@ -208,7 +208,7 @@ def get_subway_stations(dataframes):
     borough_data['borough'] = column_name
     borough_data['state'] = "New York"
     borough_data["neighborhood"] = borough_data[column_name]
-    borough_data.drop([column_name, 'url_names', 'search_names', 'neighborhoods'], axis=1)
+    borough_data = borough_data.drop([column_name, 'url_names', 'search_names', 'neighborhoods'], axis=1)
     return borough_data
 
 
