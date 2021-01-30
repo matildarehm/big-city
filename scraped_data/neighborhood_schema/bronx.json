@@ -1,0 +1,1172 @@
+{
+	"bronx": [
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Pelham Gardens"
+			],
+			"neighborhood": "Allerton",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"J",
+				"L",
+				"C",
+				"B",
+				"S",
+				"A"
+			],
+			"zipCodes": [
+				"10467"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Morris Heights",
+				"High Bridge"
+			],
+			"neighborhood": "Bathgate",
+			"state": "New York",
+			"subway_lines": [
+				"4",
+				"B",
+				"D"
+			],
+			"zipCodes": [
+				"10457",
+				"10458"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Eastchester",
+				"Laconia",
+				"Pelham Bay",
+				"Pelham Gardens"
+			],
+			"neighborhood": "Baychester",
+			"state": "New York",
+			"subway_lines": [
+				"5"
+			],
+			"zipCodes": [
+				"10469",
+				"10475"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Kingsbridge Heights",
+				"Marble Hill"
+			],
+			"neighborhood": "Bedford Park",
+			"state": "New York",
+			"subway_lines": [
+				"4",
+				"B",
+				"D"
+			],
+			"zipCodes": [
+				"10458",
+				"10463",
+				"10467",
+				"10468"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Tremont",
+				"West Farms",
+				"Fordham Heights",
+				"Fordham Manor"
+			],
+			"neighborhood": "Belmont",
+			"state": "New York",
+			"subway_lines": [
+				"L",
+				"3",
+				"C"
+			],
+			"zipCodes": [
+				"10457",
+				"10458",
+				"10460"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Bronxwood",
+				"Morris Park",
+				"Van Nest",
+				"Pelham Gardens"
+			],
+			"neighborhood": "Bronxdale",
+			"state": "New York",
+			"subway_lines": [
+				"5",
+				"2"
+			],
+			"zipCodes": [
+				"10469",
+				"10467"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Hunts Point",
+				"Claremont Village",
+				"Park Versailles",
+				"Woodstock",
+				"Soundview",
+				"Longwood"
+			],
+			"neighborhood": "Bronx Park South",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"2"
+			],
+			"zipCodes": [
+				"10460"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Laconia",
+				"Williamsbridge",
+				"Morris Park",
+				"Bronxdale",
+				"Pelham Gardens"
+			],
+			"neighborhood": "Bronx River",
+			"state": "New York",
+			"subway_lines": [
+				"2"
+			],
+			"zipCodes": [
+				"10459",
+				"10472"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Clason Point",
+				"Throgs Neck",
+				"Soundview",
+				"Unionport"
+			],
+			"neighborhood": "Castle Hill",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"2"
+			],
+			"zipCodes": [
+				"10465",
+				"10473"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Co-op City",
+				"Country Club",
+				"Throgs Neck"
+			],
+			"neighborhood": "City Island",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10464"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Foxhurst",
+				"Park Versailles",
+				"Melrose",
+				"Tremont",
+				"West Farms",
+				"Woodstock",
+				"Claremont",
+				"Soundview",
+				"Morrisania"
+			],
+			"neighborhood": "Claremont Village",
+			"state": "New York",
+			"subway_lines": [
+				"D",
+				"1"
+			],
+			"zipCodes": [
+				"10456",
+				"10457"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Hunts Point",
+				"Soundview",
+				"Unionport",
+				"Castle Hill",
+				"Longwood"
+			],
+			"neighborhood": "Clason Point",
+			"state": "New York",
+			"subway_lines": [
+				"6"
+			],
+			"zipCodes": [
+				"10473"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Concourse Village",
+				"Claremont",
+				"Mount Eden",
+				"Highbridge",
+				"Mott Haven",
+				"Harlem"
+			],
+			"neighborhood": "Concourse",
+			"state": "New York",
+			"subway_lines": [
+				"4",
+				"B",
+				"D"
+			],
+			"zipCodes": [
+				"10451",
+				"10452",
+				"10453",
+				"10456",
+				"10457"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Melrose",
+				"Concourse",
+				"Claremont",
+				"Mott Haven",
+				"Morrisania",
+				"Mount Eden"
+			],
+			"neighborhood": "Concourse Village",
+			"state": "New York",
+			"subway_lines": [
+				"4",
+				"B",
+				"D"
+			],
+			"zipCodes": [
+				"10451"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Baychester",
+				"Edenwald",
+				"Laconia",
+				"Williamsbridge",
+				"Pelham",
+				"Mount Vernon"
+			],
+			"neighborhood": "Co-op City",
+			"state": "New York",
+			"subway_lines": [
+				"5"
+			],
+			"zipCodes": [
+				"ZIP Code 10475",
+				"",
+				"10461",
+				"10475"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Throgs Neck",
+				"Schuylerville",
+				"Pelham Bay"
+			],
+			"neighborhood": "Country Club",
+			"state": "New York",
+			"subway_lines": [
+				"6"
+			],
+			"zipCodes": [
+				"10461",
+				"10465"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Claremont Village",
+				"West Farms",
+				"Mount Hope",
+				"Claremont",
+				"Belmont",
+				"Fordham Heights"
+			],
+			"neighborhood": "East Tremont",
+			"state": "New York",
+			"subway_lines": [
+				"5",
+				"4",
+				"B",
+				"D"
+			],
+			"zipCodes": [
+				"10457",
+				"10458",
+				"10460"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Greenburgh",
+				"New Rochelle",
+				"Yonkers",
+				"Pelham",
+				"Scarsdale",
+				"Mount Vernon"
+			],
+			"neighborhood": "Eastchester",
+			"state": "New York",
+			"subway_lines": [
+				"5"
+			],
+			"zipCodes": [
+				"10464",
+				"10466",
+				"10469",
+				"10475"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Laconia",
+				"Williamsbridge",
+				"Wakefield",
+				"Eastchester",
+				"Mount Vernon"
+			],
+			"neighborhood": "Edenwald",
+			"state": "New York",
+			"subway_lines": [
+				"5"
+			],
+			"zipCodes": [
+				"10466"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Cliffside Park",
+				"North Bergen",
+				"Fort Lee"
+			],
+			"neighborhood": "Edgewater Park",
+			"state": "New York",
+			"subway_lines": [
+				"6"
+			],
+			"zipCodes": [
+				"10465"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Kingsbridge",
+				"Spuyten Duyvil",
+				"North Riverdale",
+				"Riverdale"
+			],
+			"neighborhood": "Fieldston",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"J",
+				"L",
+				"C",
+				"B",
+				"S",
+				"A"
+			],
+			"zipCodes": [
+				"ZIP Code 10471",
+				"",
+				"10471"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Kingsbridge",
+				"Marble Hill",
+				"Belmont",
+				"University Heights",
+				"Jerome Park",
+				"Inwood",
+				"Fordham Heights"
+			],
+			"neighborhood": "Fordham",
+			"state": "New York",
+			"subway_lines": [
+				"N",
+				"D",
+				"Q",
+				"F",
+				"R",
+				"B",
+				"1",
+				"A"
+			],
+			"zipCodes": [
+				"10457",
+				"10458",
+				"10468"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Washington Heights",
+				"Fort George",
+				"Concourse",
+				"Mount Eden",
+				"Morris Heights",
+				"Mott Haven",
+				"Harlem"
+			],
+			"neighborhood": "High Bridge",
+			"state": "New York",
+			"subway_lines": [
+				"1",
+				"A",
+				"C"
+			],
+			"zipCodes": [
+				"10451",
+				"10452",
+				"10453"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Foxhurst",
+				"Woodstock",
+				"Port Morris",
+				"Soundview",
+				"Clason Point"
+			],
+			"neighborhood": "Hunts Point",
+			"state": "New York",
+			"subway_lines": [
+				"6"
+			],
+			"zipCodes": [
+				"10454",
+				"10455",
+				"10474"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Marble Hill",
+				"Fieldston",
+				"Riverdale",
+				"Jerome Park",
+				"Spuyten Duyvil",
+				"Fordham Manor"
+			],
+			"neighborhood": "Kingsbridge",
+			"state": "New York",
+			"subway_lines": [
+				"4",
+				"B",
+				"1"
+			],
+			"zipCodes": [
+				"10463",
+				"10468",
+				"10471"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Marble Hill",
+				"Fieldston",
+				"Riverdale",
+				"Jerome Park",
+				"Spuyten Duyvil",
+				"Fordham Manor"
+			],
+			"neighborhood": "Kingsbridge Heights",
+			"state": "New York",
+			"subway_lines": [
+				"4",
+				"B",
+				"1"
+			],
+			"zipCodes": [
+				"10463",
+				"10468"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Foxhurst",
+				"Woodstock",
+				"Port Morris",
+				"Soundview",
+				"Clason Point"
+			],
+			"neighborhood": "Longwood",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"5",
+				"2"
+			],
+			"zipCodes": [
+				"10455",
+				"10459",
+				"10474"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Kingsbridge",
+				"Jerome Park",
+				"Inwood",
+				"Spuyten Duyvil",
+				"Fordham Manor"
+			],
+			"neighborhood": "Marble Hill",
+			"state": "New York",
+			"subway_lines": [
+				"4",
+				"1"
+			],
+			"zipCodes": [
+				"10463"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Concourse Village",
+				"Claremont Village",
+				"Woodstock",
+				"Mott Haven",
+				"Morrisania",
+				"North New York"
+			],
+			"neighborhood": "Melrose",
+			"state": "New York",
+			"subway_lines": [
+				"5",
+				"2"
+			],
+			"zipCodes": [
+				"10451",
+				"10455",
+				"10456",
+				"10459"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Washington Heights",
+				"Fort George",
+				"Mount Hope",
+				"Mount Eden",
+				"Highbridge",
+				"University Heights",
+				"Fordham Heights"
+			],
+			"neighborhood": "Morris Heights",
+			"state": "New York",
+			"subway_lines": [
+				"4",
+				"B"
+			],
+			"zipCodes": [
+				"10452",
+				"10453",
+				"10468"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Van Nest",
+				"Pelham Gardens",
+				"Parkchester",
+				"Bronxwood",
+				"Pelham Bay",
+				"Bronxdale",
+				"Westchester Village"
+			],
+			"neighborhood": "Morris Park",
+			"state": "New York",
+			"subway_lines": [
+				"5"
+			],
+			"zipCodes": [
+				"10461",
+				"10462",
+				"10469"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Concourse Village",
+				"Claremont Village",
+				"Melrose",
+				"Woodstock",
+				"Claremont"
+			],
+			"neighborhood": "Morrisania",
+			"state": "New York",
+			"subway_lines": [
+				"B",
+				"D"
+			],
+			"zipCodes": [
+				"10459",
+				"10456"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Concourse Village",
+				"East Harlem",
+				"Melrose",
+				"Woodstock",
+				"Concourse",
+				"Port Morris",
+				"Highbridge",
+				"Harlem",
+				"North New York"
+			],
+			"neighborhood": "Mott Haven",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"2"
+			],
+			"zipCodes": [
+				"10451",
+				"10454",
+				"10455"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Concourse Village",
+				"Mount Hope",
+				"Concourse",
+				"Claremont",
+				"Highbridge",
+				"Morris Heights"
+			],
+			"neighborhood": "Mount Eden",
+			"state": "New York",
+			"subway_lines": [
+				"4",
+				"B",
+				"D"
+			],
+			"zipCodes": [
+				"10457",
+				"10456"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Tremont",
+				"Claremont",
+				"Mount Eden",
+				"University Heights",
+				"Morris Heights",
+				"Fordham Heights"
+			],
+			"neighborhood": "Mount Hope",
+			"state": "New York",
+			"subway_lines": [
+				"4",
+				"B",
+				"D"
+			],
+			"zipCodes": [
+				"10963"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Yonkers",
+				"Riverdale",
+				"Fieldston"
+			],
+			"neighborhood": "North Riverdale",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"ZIP Code 10471",
+				"",
+				"10471"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Williamsbridge",
+				"Jerome Park"
+			],
+			"neighborhood": "Norwood",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"1",
+				"C",
+				"2",
+				"3",
+				"A"
+			],
+			"zipCodes": [
+				"10458",
+				"10467",
+				"10469"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Eastchester"
+			],
+			"neighborhood": "Olinville",
+			"state": "New York",
+			"subway_lines": [
+				"2"
+			],
+			"zipCodes": [
+				"10466",
+				"10467"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Park Versailles",
+				"Van Nest",
+				"Soundview",
+				"Unionport",
+				"Morris Park",
+				"Westchester Village"
+			],
+			"neighborhood": "Parkchester",
+			"state": "New York",
+			"subway_lines": [
+				"6"
+			],
+			"zipCodes": [
+				"10460",
+				"10462",
+				"10472"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Baychester",
+				"Westchester Village",
+				"Schuylerville",
+				"Country Club",
+				"Morris Park",
+				"Pelham Gardens"
+			],
+			"neighborhood": "Pelham Bay",
+			"state": "New York",
+			"subway_lines": [
+				"6"
+			],
+			"zipCodes": [
+				"10461",
+				"10462",
+				"10465",
+				"10475"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Baychester",
+				"Morris Park",
+				"Laconia",
+				"Bronxwood",
+				"Pelham Bay",
+				"Bronxdale"
+			],
+			"neighborhood": "Pelham Gardens",
+			"state": "New York",
+			"subway_lines": [
+				"5"
+			],
+			"zipCodes": [
+				"10461",
+				"10469",
+				"10475"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Allerton",
+				"Indian Village",
+				"Little Yemen"
+			],
+			"neighborhood": "Pelham Parkway",
+			"state": "New York",
+			"subway_lines": [
+				"5",
+				"2"
+			],
+			"zipCodes": [
+				"10461",
+				"10462"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Hunts Point",
+				"East Harlem",
+				"Woodstock",
+				"Mott Haven",
+				"Longwood",
+				"North New York"
+			],
+			"neighborhood": "Port Morris",
+			"state": "New York",
+			"subway_lines": [
+				"6"
+			],
+			"zipCodes": [
+				"10035",
+				"10451",
+				"10454",
+				"10455",
+				"10474"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Kingsbridge",
+				"Spuyten Duyvil",
+				"North Riverdale",
+				"Fieldston"
+			],
+			"neighborhood": "Riverdale",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10463",
+				"10471"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Throgs Neck",
+				"Country Club",
+				"Unionport",
+				"Pelham Bay",
+				"Westchester Village"
+			],
+			"neighborhood": "Schuylerville",
+			"state": "New York",
+			"subway_lines": [
+				"6"
+			],
+			"zipCodes": [
+				"12871",
+				"12884"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Hunts Point",
+				"Claremont Village",
+				"Foxhurst",
+				"Park Versailles",
+				"Clason Point",
+				"Parkchester",
+				"Unionport",
+				"Castle Hill",
+				"Longwood"
+			],
+			"neighborhood": "Soundview",
+			"state": "New York",
+			"subway_lines": [
+				"6"
+			],
+			"zipCodes": [
+				"10459",
+				"10460",
+				"10462",
+				"10472",
+				"10473",
+				"10474"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Kingsbridge",
+				"Marble Hill",
+				"Fieldston",
+				"Riverdale",
+				"Inwood"
+			],
+			"neighborhood": "Spuyten Duyvil",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10463",
+				"10471"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Castle Hill",
+				"Schuylerville",
+				"Country Club",
+				"Unionport"
+			],
+			"neighborhood": "Throgs Neck",
+			"state": "New York",
+			"subway_lines": [
+				"6"
+			],
+			"zipCodes": [
+				"10465"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Park Versailles",
+				"Clason Point",
+				"Parkchester",
+				"Throgs Neck",
+				"Schuylerville",
+				"Soundview",
+				"Castle Hill",
+				"Westchester Village"
+			],
+			"neighborhood": "Unionport",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"J",
+				"L",
+				"C",
+				"B",
+				"S",
+				"A"
+			],
+			"zipCodes": [
+				"10461",
+				"10462",
+				"10465",
+				"10472",
+				"10473"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Washington Heights",
+				"Fort George",
+				"Mount Hope",
+				"Morris Heights",
+				"Inwood",
+				"Fordham Heights",
+				"Fordham Manor"
+			],
+			"neighborhood": "University Heights",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10453",
+				"10463",
+				"10468"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Park Versailles",
+				"Parkchester",
+				"Morris Park",
+				"Bronxdale",
+				"Westchester Village"
+			],
+			"neighborhood": "Van Nest",
+			"state": "New York",
+			"subway_lines": [
+				"2"
+			],
+			"zipCodes": [
+				"10460",
+				"10462"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Edenwald",
+				"Woodlawn Heights",
+				"Williamsbridge",
+				"Yonkers",
+				"Mount Vernon"
+			],
+			"neighborhood": "Wakefield",
+			"state": "New York",
+			"subway_lines": [
+				"2"
+			],
+			"zipCodes": [
+				"10466",
+				"10470",
+				"10704"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Tremont",
+				"Claremont Village",
+				"Park Versailles",
+				"Belmont"
+			],
+			"neighborhood": "West Farms",
+			"state": "New York",
+			"subway_lines": [
+				"5",
+				"2"
+			],
+			"zipCodes": [
+				"ZIP Code 10460",
+				"",
+				"10460",
+				"10462"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Van Nest",
+				"Schuylerville",
+				"Unionport",
+				"Parkchester",
+				"Pelham Bay",
+				"Morris Park"
+			],
+			"neighborhood": "Westchester Square",
+			"state": "New York",
+			"subway_lines": [
+				"6"
+			],
+			"zipCodes": [
+				"10461"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Edenwald",
+				"Norwood",
+				"Laconia",
+				"Wakefield",
+				"Bronxwood",
+				"Eastchester"
+			],
+			"neighborhood": "Williamsbridge",
+			"state": "New York",
+			"subway_lines": [
+				"5"
+			],
+			"zipCodes": [
+				"10461",
+				"10462",
+				"10466",
+				"10467",
+				"10469"
+			]
+		},
+		{
+			"borough": "Bronx",
+			"nearby_neighborhoods": [
+				"Yonkers",
+				"Wakefield"
+			],
+			"neighborhood": "Woodlawn",
+			"state": "New York",
+			"subway_lines": [
+				"4",
+				"2"
+			],
+			"zipCodes": [
+				"10466",
+				"10467",
+				"10470"
+			]
+		}
+	]
+}

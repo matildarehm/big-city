@@ -1,0 +1,448 @@
+{
+    "staten island": [
+        {
+            "zipCodes": [
+                "10312"
+            ],
+            "neighborhood": "Annadale"
+        },
+        {
+            "zipCodes": [
+                "10312"
+            ],
+            "neighborhood": "Arden Heights"
+        },
+        {
+            "zipCodes": [
+                "12603",
+                "12601"
+            ],
+            "neighborhood": "Arlington"
+        },
+        {
+            "zipCodes": [
+                "10305"
+            ],
+            "neighborhood": "Arrochar"
+        },
+        {
+            "zipCodes": [
+                "11357",
+                "11359",
+                "11360"
+            ],
+            "neighborhood": "Bay Terrace"
+        },
+        {
+            "zipCodes": [
+                "10303",
+                "10311",
+                "10314"
+            ],
+            "neighborhood": "Bloomfield"
+        },
+        {
+            "zipCodes": [
+                "10303",
+                "10314"
+            ],
+            "neighborhood": "Bulls Head"
+        },
+        {
+            "zipCodes": [
+                "10307",
+                "10309"
+            ],
+            "neighborhood": "Butler Manor"
+        },
+        {
+            "zipCodes": [
+                "10301",
+                "10302",
+                "10310",
+                "10314"
+            ],
+            "neighborhood": "Castleton Corners"
+        },
+        {
+            "zipCodes": [
+                "10309"
+            ],
+            "neighborhood": "Charleston"
+        },
+        {
+            "zipCodes": [
+                "10001",
+                "10011",
+                "10014",
+                "10018",
+                "10199"
+            ],
+            "neighborhood": "Chelsea"
+        },
+        {
+            "zipCodes": [
+                "10304"
+            ],
+            "neighborhood": "Clifton"
+        },
+        {
+            "zipCodes": [
+                "14141"
+            ],
+            "neighborhood": "Concord"
+        },
+        {
+            "zipCodes": [
+                "10304",
+                "10305",
+                "10306"
+            ],
+            "neighborhood": "Dongan Hills"
+        },
+        {
+            "zipCodes": [
+                "10305"
+            ],
+            "neighborhood": "Egbertville"
+        },
+        {
+            "zipCodes": [
+                "10302",
+                "10303"
+            ],
+            "neighborhood": "Elm Park"
+        },
+        {
+            "zipCodes": [
+                "10306",
+                "10308",
+                "10312"
+            ],
+            "neighborhood": "Eltingville"
+        },
+        {
+            "zipCodes": [
+                "10301",
+                "10304",
+                "10314"
+            ],
+            "neighborhood": "Emerson Hill"
+        },
+        {
+            "zipCodes": [
+                "90045",
+                "90230"
+            ],
+            "neighborhood": "Fox Hills"
+        },
+        {
+            "zipCodes": [
+                "10302",
+                "10303",
+                "10314"
+            ],
+            "neighborhood": "Graniteville"
+        },
+        {
+            "zipCodes": [
+                "10306"
+            ],
+            "neighborhood": "Grant City"
+        },
+        {
+            "zipCodes": [
+                "10305",
+                "10304"
+            ],
+            "neighborhood": "Grasmere"
+        },
+        {
+            "zipCodes": [
+                "10306",
+                "10308",
+                "10312"
+            ],
+            "neighborhood": "Great Kills"
+        },
+        {
+            "zipCodes": [
+                "10312"
+            ],
+            "neighborhood": "Greenridge"
+        },
+        {
+            "zipCodes": [
+                "10301",
+                "10304"
+            ],
+            "neighborhood": "Grymes Hill"
+        },
+        {
+            "zipCodes": [
+                "10314"
+            ],
+            "neighborhood": "Heartland Village"
+        },
+        {
+            "zipCodes": [
+                "10303"
+            ],
+            "neighborhood": "Howland Hook"
+        },
+        {
+            "zipCodes": [
+                "10309",
+                "10312"
+            ],
+            "neighborhood": "Huguenot"
+        },
+        {
+            "zipCodes": [
+                "10306"
+            ],
+            "neighborhood": "Lighthouse Hill"
+        },
+        {
+            "zipCodes": [
+                "12534"
+            ],
+            "neighborhood": "Livingston"
+        },
+        {
+            "zipCodes": [
+                "10314"
+            ],
+            "neighborhood": "Manor Heights"
+        },
+        {
+            "zipCodes": [
+                "10303"
+            ],
+            "neighborhood": "Mariner's Harbor"
+        },
+        {
+            "zipCodes": [
+                "10305",
+                "10306"
+            ],
+            "neighborhood": "Midland Beach"
+        },
+        {
+            "zipCodes": [
+                "10301"
+            ],
+            "neighborhood": "New Brighton"
+        },
+        {
+            "zipCodes": [
+                "10306"
+            ],
+            "neighborhood": "New Dorp"
+        },
+        {
+            "zipCodes": [
+                "10306"
+            ],
+            "neighborhood": "New Dorp Beach"
+        },
+        {
+            "zipCodes": [
+                "10304",
+                "10306",
+                "10314"
+            ],
+            "neighborhood": "New Springville"
+        },
+        {
+            "zipCodes": [
+                "10306"
+            ],
+            "neighborhood": "Oakwood"
+        },
+        {
+            "zipCodes": [
+                "10303"
+            ],
+            "neighborhood": "Old Place"
+        },
+        {
+            "zipCodes": [
+                "10304",
+                "10305"
+            ],
+            "neighborhood": "Old Town"
+        },
+        {
+            "zipCodes": [
+                "10304"
+            ],
+            "neighborhood": "Park Hill"
+        },
+        {
+            "zipCodes": [
+                "10307",
+                "10309"
+            ],
+            "neighborhood": "Pleasant Plains"
+        },
+        {
+            "zipCodes": [
+                "10303"
+            ],
+            "neighborhood": "Port Ivory"
+        },
+        {
+            "zipCodes": [
+                "10302",
+                "10303",
+                "10310"
+            ],
+            "neighborhood": "Port Richmond"
+        },
+        {
+            "zipCodes": [
+                "10309",
+                "10312"
+            ],
+            "neighborhood": "Prince's Bay"
+        },
+        {
+            "zipCodes": [
+                "10301",
+                "10310"
+            ],
+            "neighborhood": "Randall Manor"
+        },
+        {
+            "zipCodes": [
+                "10306",
+                "10308"
+            ],
+            "neighborhood": "Richmond Town"
+        },
+        {
+            "zipCodes": [
+                "10307",
+                "10309"
+            ],
+            "neighborhood": "Richmond Valley"
+        },
+        {
+            "zipCodes": [
+                "10305"
+            ],
+            "neighborhood": "Rosebank"
+        },
+        {
+            "zipCodes": [
+                "10309",
+                "10312"
+            ],
+            "neighborhood": "Rossville"
+        },
+        {
+            "zipCodes": [],
+            "neighborhood": "Sandy Ground"
+        },
+        {
+            "zipCodes": [
+                "10305"
+            ],
+            "neighborhood": "Shore Acres"
+        },
+        {
+            "zipCodes": [
+                "10301",
+                "10310"
+            ],
+            "neighborhood": "Silver Lake"
+        },
+        {
+            "zipCodes": [
+                "10305"
+            ],
+            "neighborhood": "South Beach"
+        },
+        {
+            "zipCodes": [
+                "10301"
+            ],
+            "neighborhood": "St. George"
+        },
+        {
+            "zipCodes": [
+                "10301",
+                "10304",
+                "10305"
+            ],
+            "neighborhood": "Stapleton"
+        },
+        {
+            "zipCodes": [
+                "10301",
+                "10314"
+            ],
+            "neighborhood": "Sunnyside"
+        },
+        {
+            "zipCodes": [
+                "10301",
+                "10304",
+                "10306"
+            ],
+            "neighborhood": "Todt Hill"
+        },
+        {
+            "zipCodes": [
+                "10301",
+                "10304"
+            ],
+            "neighborhood": "Tompkinsville"
+        },
+        {
+            "zipCodes": [
+                "10307"
+            ],
+            "neighborhood": "Tottenville"
+        },
+        {
+            "zipCodes": [
+                "10314"
+            ],
+            "neighborhood": "Travis"
+        },
+        {
+            "zipCodes": [
+                "14880"
+            ],
+            "neighborhood": "Ward Hill"
+        },
+        {
+            "zipCodes": [
+                "10301",
+                "10310"
+            ],
+            "neighborhood": "West Brighton"
+        },
+        {
+            "zipCodes": [
+                "10302",
+                "10314"
+            ],
+            "neighborhood": "Westerleigh"
+        },
+        {
+            "zipCodes": [
+                "10314"
+            ],
+            "neighborhood": "Willowbrook"
+        },
+        {
+            "zipCodes": [
+                "10309"
+            ],
+            "neighborhood": "Woodrow"
+        }
+    ]
+}

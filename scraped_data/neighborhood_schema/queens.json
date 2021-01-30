@@ -1,1264 +1,1759 @@
 {
-    "queens": [
-        {
-            "subway_lines": [
-                "A"
-            ],
-            "nearby_neighborhoods": [
-                "Rockaway Beach",
-                "Hammels",
-                "Edgemere",
-                "Hempstead",
-                "Far Rockaway"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Arverne"
-        },
-        {
-            "subway_lines": [
-                "R",
-                "M",
-                "W",
-                "N"
-            ],
-            "nearby_neighborhoods": [
-                "Long Island City",
-                "Sunnyside",
-                "Woodside"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Astoria"
-        },
-        {
-            "subway_lines": [
-                "E",
-                "W",
-                "M",
-                "N"
-            ],
-            "nearby_neighborhoods": [
-                "Ditmars Steinway",
-                "Roosevelt Island",
-                "Long Island City",
-                "Woodside",
-                "Sunnyside"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Astoria Heights"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "Clearview",
-                "East Flushing",
-                "Fresh Meadows",
-                "Utopia",
-                "Bayside",
-                "Murray Hill",
-                "Queensboro Hill",
-                "Bay Terrace"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Auburndale"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Auburndale",
-                "Beechhurst",
-                "Clearview",
-                "Bayside"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Bay Terrace"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "Auburndale",
-                "Beechhurst",
-                "Bay Terrace",
-                "Clearview"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Bayside"
-        },
-        {
-            "subway_lines": [
-                "A"
-            ],
-            "nearby_neighborhoods": [
-                "Edgemere",
-                "Far Rockaway",
-                "Hempstead"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Bayswater"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "Clearview",
-                "Bowne Park",
-                "Bayside",
-                "Bay Terrace",
-                "Whitestone"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Beechhurst"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Bellaire"
-        },
-        {
-            "subway_lines": [
-                "S"
-            ],
-            "nearby_neighborhoods": [
-                "Roxbury",
-                "Breezy Point",
-                "Rockaway Beach",
-                "Rockaway Park",
-                "Seaside"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Belle Harbor"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Glen Oaks",
-                "Oakland Gardens",
-                "Hempstead",
-                "North Hempstead",
-                "Little Neck",
-                "Douglaston",
-                "Queens Village"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Bellerose"
-        },
-        {
-            "subway_lines": [
-                "6",
-                "L",
-                "S",
-                "C",
-                "A",
-                "B",
-                "J"
-            ],
-            "nearby_neighborhoods": [],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Blissville"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Rockaway Beach",
-                "Neponsit",
-                "Belle Harbor"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Breezy Point"
-        },
-        {
-            "subway_lines": [
-                "F"
-            ],
-            "nearby_neighborhoods": [
-                "Forest Hills",
-                "Kew Gardens"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Briarwood"
-        },
-        {
-            "subway_lines": [
-                "A"
-            ],
-            "nearby_neighborhoods": [
-                "Far Rockaway"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Broad Channel"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Laurelton",
-                "Springfield Gardens",
-                "Hempstead",
-                "Rochdale",
-                "Rosedale"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Brookville"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Laurelton",
-                "St",
-                "Hempstead",
-                "Queens Village",
-                "Rosedale"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Cambria Heights"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "Bowne Park",
-                "Bay Terrace",
-                "Bayside",
-                "Murray Hill",
-                "Auburndale",
-                "Beechhurst"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Clearview"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "Flushing",
-                "Bowne Park",
-                "Whitestone",
-                "Malba"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "College Point"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Floral Park",
-                "Bellerose",
-                "North Hempstead",
-                "Glen Oaks"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Douglaston"
-        },
-        {
-            "subway_lines": [
-                "E",
-                "W",
-                "N"
-            ],
-            "nearby_neighborhoods": [
-                "Long Island City",
-                "Sunnyside",
-                "Greenpoint"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Dutch Kills"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "North Corona",
-                "Jackson Heights"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "East Elmhurst"
-        },
-        {
-            "subway_lines": [
-                "6",
-                "L",
-                "S",
-                "C",
-                "A",
-                "B",
-                "J"
-            ],
-            "nearby_neighborhoods": [
-                "Rockaway Beach",
-                "Hempstead",
-                "Arverne",
-                "Far Rockaway",
-                "Bayswater"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Edgemere"
-        },
-        {
-            "subway_lines": [
-                "R",
-                "M"
-            ],
-            "nearby_neighborhoods": [
-                "Rego Park"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Elmhurst"
-        },
-        {
-            "subway_lines": [
-                "A"
-            ],
-            "nearby_neighborhoods": [
-                "Rockaway Beach",
-                "Broad Channel",
-                "Hammels",
-                "Hempstead",
-                "Edgemere",
-                "Arverne",
-                "Bayswater"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Far Rockaway"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Floral Park",
-                "Bellerose",
-                "North Hempstead",
-                "Hempstead"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Floral Park"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "College Point",
-                "Bowne Park",
-                "East Flushing",
-                "Malba",
-                "Murray Hill",
-                "Queensboro Hill",
-                "Whitestone"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Flushing"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "College Point",
-                "Bowne Park",
-                "East Flushing",
-                "Malba",
-                "Murray Hill",
-                "Queensboro Hill",
-                "Whitestone"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Flushing (Downtown)"
-        },
-        {
-            "subway_lines": [
-                "E",
-                "M",
-                "F",
-                "R"
-            ],
-            "nearby_neighborhoods": [
-                "Briarwood",
-                "Kew Gardens",
-                "Rego Park"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Forest Hills"
-        },
-        {
-            "subway_lines": [
-                "E",
-                "F"
-            ],
-            "nearby_neighborhoods": [
-                "Kew Gardens",
-                "Corona",
-                "Middle Village",
-                "Rego Park",
-                "Glendale"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Forest Hills Gardens"
-        },
-        {
-            "subway_lines": [
-                "F"
-            ],
-            "nearby_neighborhoods": [
-                "Auburndale",
-                "Utopia",
-                "Jamaica Estates"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Fresh Meadows"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Floral Park",
-                "Douglaston",
-                "North Hempstead",
-                "Little Neck",
-                "Bellerose"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Glen Oaks"
-        },
-        {
-            "subway_lines": [
-                "Z",
-                "J"
-            ],
-            "nearby_neighborhoods": [
-                "Bedford - Stuyvesant",
-                "Ridgewood",
-                "Cypress Hills",
-                "Forest Hills",
-                "East New York",
-                "Brownsville",
-                "Bushwick",
-                "Middle Village",
-                "Highland Park",
-                "Rego Park"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Glendale"
-        },
-        {
-            "subway_lines": [
-                "6",
-                "L",
-                "S",
-                "C",
-                "A",
-                "B",
-                "J"
-            ],
-            "nearby_neighborhoods": [
-                "Rockaway Beach",
-                "Rockaway Park",
-                "Seaside",
-                "Arverne",
-                "Far Rockaway"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Hammels"
-        },
-        {
-            "subway_lines": [
-                "E",
-                "M",
-                "F",
-                "R"
-            ],
-            "nearby_neighborhoods": [
-                "Utopia",
-                "Kew Gardens Hills",
-                "Jamaica Estates",
-                "Pomonok",
-                "Jamaica Hills",
-                "Briarwood"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Hillcrest"
-        },
-        {
-            "subway_lines": [
-                "6",
-                "L",
-                "S",
-                "C",
-                "A",
-                "B",
-                "J"
-            ],
-            "nearby_neighborhoods": [
-                "Oakland Gardens",
-                "Jamaica",
-                "Holliswood",
-                "St",
-                "Jamaica Estates",
-                "Queens Village"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Hollis"
-        },
-        {
-            "subway_lines": [
-                "F"
-            ],
-            "nearby_neighborhoods": [
-                "Hollis",
-                "Oakland Gardens",
-                "Jamaica",
-                "Jamaica Estates",
-                "Queens Village"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Holliswood"
-        },
-        {
-            "subway_lines": [
-                "A"
-            ],
-            "nearby_neighborhoods": [
-                "Howard Beach",
-                "South Ozone Park",
-                "Ozone Park",
-                "Lindenwood"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Howard Beach"
-        },
-        {
-            "subway_lines": [
-                "E",
-                "7",
-                "G"
-            ],
-            "nearby_neighborhoods": [
-                "Long Island City",
-                "Sunnyside",
-                "Greenpoint"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Hunters Point"
-        },
-        {
-            "subway_lines": [
-                "7",
-                "R",
-                "M",
-                "E",
-                "F"
-            ],
-            "nearby_neighborhoods": [
-                "Woodside",
-                "Astoria",
-                "Elmhurst"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Jackson Heights"
-        },
-        {
-            "subway_lines": [
-                "E",
-                "J"
-            ],
-            "nearby_neighborhoods": [
-                "Jamaica",
-                "Hillcrest",
-                "Jamaica Estates",
-                "Briarwood"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Jamaica"
-        },
-        {
-            "subway_lines": [
-                "F"
-            ],
-            "nearby_neighborhoods": [
-                "Fresh Meadows",
-                "Hollis",
-                "Jamaica",
-                "Holliswood",
-                "Hillcrest",
-                "Utopia",
-                "Jamaica Hills"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Jamaica Estates"
-        },
-        {
-            "subway_lines": [
-                "F"
-            ],
-            "nearby_neighborhoods": [
-                "Jamaica",
-                "Hillcrest",
-                "Jamaica Estates",
-                "Briarwood"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Jamaica Hills"
-        },
-        {
-            "subway_lines": [
-                "E"
-            ],
-            "nearby_neighborhoods": [
-                "Briarwood",
-                "Forest Hills"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Kew Gardens"
-        },
-        {
-            "subway_lines": [
-                "E",
-                "F"
-            ],
-            "nearby_neighborhoods": [
-                "Kew Gardens",
-                "Hillcrest",
-                "Pomonok",
-                "Queensboro Hill",
-                "Briarwood"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Kew Gardens Hills"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Brookville",
-                "Cambria Heights",
-                "Springfield Gardens",
-                "St",
-                "Hempstead",
-                "Rochdale",
-                "Rosedale"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Laurelton"
-        },
-        {
-            "subway_lines": [
-                "R",
-                "M"
-            ],
-            "nearby_neighborhoods": [],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Lefrak City"
-        },
-        {
-            "subway_lines": [
-                "A"
-            ],
-            "nearby_neighborhoods": [
-                "East New York",
-                "Howard Beach",
-                "Ozone Park",
-                "Old Howard Beach"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Lindenwood"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Floral Park",
-                "Bellerose",
-                "North Hempstead",
-                "Glen Oaks"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Little Neck"
-        },
-        {
-            "subway_lines": [
-                "7",
-                "R",
-                "M",
-                "N",
-                "E",
-                "G",
-                "F",
-                "Q"
-            ],
-            "nearby_neighborhoods": [
-                "Astoria",
-                "Sunnyside",
-                "Blissville"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Long Island City"
-        },
-        {
-            "subway_lines": [
-                "6",
-                "L",
-                "S",
-                "C",
-                "A",
-                "B",
-                "J"
-            ],
-            "nearby_neighborhoods": [
-                "Flushing",
-                "College Point",
-                "Bowne Park",
-                "Whitestone"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Malba"
-        },
-        {
-            "subway_lines": [
-                "7",
-                "L"
-            ],
-            "nearby_neighborhoods": [
-                "Ridgewood",
-                "East Williamsburg",
-                "Williamsburg",
-                "Elmhurst",
-                "Greenpoint",
-                "Middle Village",
-                "Woodside",
-                "Sunnyside"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Maspeth"
-        },
-        {
-            "subway_lines": [
-                "M"
-            ],
-            "nearby_neighborhoods": [
-                "Ridgewood",
-                "Forest Hills",
-                "Elmhurst",
-                "Rego Park",
-                "Glendale",
-                "Maspeth"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Middle Village"
-        },
-        {
-            "subway_lines": [
-                "6",
-                "4",
-                "5",
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "Gramercy",
-                "Flatiron",
-                "NoMad",
-                "Midtown East",
-                "Fashion District"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Murray Hill"
-        },
-        {
-            "subway_lines": [
-                "S"
-            ],
-            "nearby_neighborhoods": [
-                "Roxbury",
-                "Breezy Point",
-                "Rockaway Beach",
-                "Rockaway Park",
-                "Seaside"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Neponsit"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Floral Park",
-                "Bellerose",
-                "North Hempstead",
-                "Hempstead"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "New Hyde Park"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "Elmhurst",
-                "East Elmhurst",
-                "Corona",
-                "Jackson Heights"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "North Corona"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Hollis",
-                "Floral Park",
-                "Holliswood",
-                "Bellerose",
-                "Queens Village"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Oakland Gardens"
-        },
-        {
-            "subway_lines": [
-                "A"
-            ],
-            "nearby_neighborhoods": [
-                "Cypress Hills",
-                "South Ozone Park",
-                "Lindenwood",
-                "Howard Beach",
-                "Richmond Hill",
-                "Woodhaven",
-                "Old Howard Beach",
-                "East New York"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Ozone Park"
-        },
-        {
-            "subway_lines": [
-                "6",
-                "L",
-                "S",
-                "C",
-                "A",
-                "B",
-                "J"
-            ],
-            "nearby_neighborhoods": [
-                "Queensboro Hill",
-                "Hillcrest",
-                "Kew Gardens Hills",
-                "Utopia"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Pomonok"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Hollis",
-                "Oakland Gardens",
-                "Floral Park",
-                "Cambria Heights",
-                "Holliswood",
-                "St",
-                "Hempstead",
-                "Bellerose"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Queens Village"
-        },
-        {
-            "subway_lines": [
-                "E",
-                "F"
-            ],
-            "nearby_neighborhoods": [
-                "East Flushing",
-                "Utopia",
-                "Kew Gardens Hills",
-                "Pomonok",
-                "Flushing",
-                "Auburndale"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Queensboro Hill"
-        },
-        {
-            "subway_lines": [
-                "R",
-                "M",
-                "N"
-            ],
-            "nearby_neighborhoods": [],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Ravenswood"
-        },
-        {
-            "subway_lines": [
-                "R",
-                "M"
-            ],
-            "nearby_neighborhoods": [
-                "Elmhurst",
-                "Forest Hills"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Rego Park"
-        },
-        {
-            "subway_lines": [
-                "J"
-            ],
-            "nearby_neighborhoods": [
-                "Kew Gardens",
-                "South Ozone Park",
-                "Jamaica",
-                "Woodhaven",
-                "Ozone Park",
-                "Briarwood"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Richmond Hill"
-        },
-        {
-            "subway_lines": [
-                "M",
-                "L"
-            ],
-            "nearby_neighborhoods": [
-                "Bushwick",
-                "Williamsburg"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Ridgewood"
-        },
-        {
-            "subway_lines": [
-                "E",
-                "J"
-            ],
-            "nearby_neighborhoods": [
-                "Brookville",
-                "South Ozone Park",
-                "South Jamaica",
-                "Laurelton",
-                "Springfield Gardens",
-                "St"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Rochdale"
-        },
-        {
-            "subway_lines": [
-                "S"
-            ],
-            "nearby_neighborhoods": [
-                "Rockaway Beach",
-                "Hammels",
-                "Neponsit",
-                "Belle Harbor"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Rockaway Park"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Brookville",
-                "Laurelton",
-                "Cambria Heights",
-                "Springfield Gardens",
-                "Hempstead"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Rosedale"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Rockaway Beach",
-                "Neponsit",
-                "Belle Harbor"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Roxbury"
-        },
-        {
-            "subway_lines": [
-                "6",
-                "L",
-                "S",
-                "C",
-                "A",
-                "B",
-                "J"
-            ],
-            "nearby_neighborhoods": [
-                "Rockaway Beach",
-                "Hammels",
-                "Neponsit",
-                "Belle Harbor"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Seaside"
-        },
-        {
-            "subway_lines": [
-                "6",
-                "L",
-                "S",
-                "C",
-                "A",
-                "B",
-                "J"
-            ],
-            "nearby_neighborhoods": [],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Somerville"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "Elmhurst",
-                "North Corona",
-                "Rego Park",
-                "Forest Hills"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "South Corona"
-        },
-        {
-            "subway_lines": [
-                "E",
-                "A"
-            ],
-            "nearby_neighborhoods": [
-                "Jamaica",
-                "St",
-                "Rochdale",
-                "South Ozone Park"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "South Jamaica"
-        },
-        {
-            "subway_lines": [
-                "E",
-                "A"
-            ],
-            "nearby_neighborhoods": [
-                "Jamaica",
-                "South Jamaica",
-                "Springfield Gardens",
-                "Richmond Hill",
-                "Rochdale",
-                "Old Howard Beach",
-                "Ozone Park"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "South Ozone Park"
-        },
-        {
-            "subway_lines": [],
-            "nearby_neighborhoods": [
-                "Brookville",
-                "South Ozone Park",
-                "Laurelton",
-                "Rochdale",
-                "Rosedale"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Springfield Gardens"
-        },
-        {
-            "subway_lines": [
-                "F"
-            ],
-            "nearby_neighborhoods": [
-                "Hollis",
-                "Laurelton",
-                "Jamaica",
-                "Cambria Heights",
-                "South Jamaica",
-                "Hempstead",
-                "Rochdale",
-                "Queens Village"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "St. Albans"
-        },
-        {
-            "subway_lines": [
-                "R",
-                "M"
-            ],
-            "nearby_neighborhoods": [
-                "Astoria",
-                "Jackson Heights",
-                "Woodside"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Steinway"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "Long Island City",
-                "Astoria",
-                "Woodside"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Sunnyside"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Sunnyside Gardens"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "Fresh Meadows",
-                "Hillcrest",
-                "Jamaica Estates",
-                "Pomonok",
-                "Queensboro Hill",
-                "Auburndale"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Utopia"
-        },
-        {
-            "subway_lines": [
-                "7"
-            ],
-            "nearby_neighborhoods": [
-                "College Point",
-                "Bowne Park",
-                "Malba",
-                "Flushing",
-                "Beechhurst"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Whitestone"
-        },
-        {
-            "subway_lines": [
-                "J"
-            ],
-            "nearby_neighborhoods": [
-                "East New York",
-                "Richmond Hill",
-                "Ozone Park",
-                "Cypress Hills"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Woodhaven"
-        },
-        {
-            "subway_lines": [
-                "7",
-                "M",
-                "R"
-            ],
-            "nearby_neighborhoods": [
-                "Astoria",
-                "Sunnyside",
-                "Jackson Heights"
-            ],
-            "borough": "Queens",
-            "state": "New York",
-            "neighborhood": "Woodside"
-        }
-    ]
+	"queens": [
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Rockaway Beach",
+				"Hammels",
+				"Edgemere",
+				"Hempstead",
+				"Far Rockaway"
+			],
+			"neighborhood": "Arverne",
+			"state": "New York",
+			"subway_lines": [
+				"A"
+			],
+			"zipCodes": [
+				"11692",
+				"11693"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Long Island City",
+				"Sunnyside",
+				"Woodside"
+			],
+			"neighborhood": "Astoria",
+			"state": "New York",
+			"subway_lines": [
+				"R",
+				"M",
+				"W",
+				"N"
+			],
+			"zipCodes": [
+				"11101",
+				"11102",
+				"11103",
+				"11105",
+				"11106",
+				"11370",
+				"11377"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Ditmars Steinway",
+				"Roosevelt Island",
+				"Long Island City",
+				"Woodside",
+				"Sunnyside"
+			],
+			"neighborhood": "Astoria Heights",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"W",
+				"M",
+				"N"
+			],
+			"zipCodes": [
+				"11370",
+				"11371"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Clearview",
+				"East Flushing",
+				"Fresh Meadows",
+				"Utopia",
+				"Bayside",
+				"Murray Hill",
+				"Queensboro Hill",
+				"Bay Terrace"
+			],
+			"neighborhood": "Auburndale",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11358",
+				"11361",
+				"11364",
+				"11365"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Auburndale",
+				"Beechhurst",
+				"Clearview",
+				"Bayside"
+			],
+			"neighborhood": "Bay Terrace",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11357",
+				"11359",
+				"11360"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Auburndale",
+				"Beechhurst",
+				"Bay Terrace",
+				"Clearview"
+			],
+			"neighborhood": "Bayside",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11358",
+				"11360",
+				"11361",
+				"11362",
+				"11364"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Edgemere",
+				"Far Rockaway",
+				"Hempstead"
+			],
+			"neighborhood": "Bayswater",
+			"state": "New York",
+			"subway_lines": [
+				"A"
+			],
+			"zipCodes": [
+				"11691"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Clearview",
+				"Bowne Park",
+				"Bayside",
+				"Bay Terrace",
+				"Whitestone"
+			],
+			"neighborhood": "Beechhurst",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11360",
+				"11357"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Bellerose",
+				"Glen Oaks",
+				"Jamaica",
+				"Queens Village"
+			],
+			"neighborhood": "Bellaire",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11364",
+				"11427",
+				"11426"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Roxbury",
+				"Breezy Point",
+				"Rockaway Beach",
+				"Rockaway Park",
+				"Seaside"
+			],
+			"neighborhood": "Belle Harbor",
+			"state": "New York",
+			"subway_lines": [
+				"S"
+			],
+			"zipCodes": [
+				"11694"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Glen Oaks",
+				"Oakland Gardens",
+				"Hempstead",
+				"North Hempstead",
+				"Little Neck",
+				"Douglaston",
+				"Queens Village"
+			],
+			"neighborhood": "Bellerose",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11001",
+				"11004",
+				"11362",
+				"11364",
+				"11426",
+				"11427",
+				"11428"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Astoria",
+				"Upper East Side",
+				"Williamsburg"
+			],
+			"neighborhood": "Blissville",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"L",
+				"S",
+				"C",
+				"A",
+				"B",
+				"J"
+			],
+			"zipCodes": [
+				"11101",
+				"11222",
+				"11378"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Rockaway Beach",
+				"Neponsit",
+				"Belle Harbor"
+			],
+			"neighborhood": "Breezy Point",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11697"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Forest Hills",
+				"Kew Gardens"
+			],
+			"neighborhood": "Briarwood",
+			"state": "New York",
+			"subway_lines": [
+				"F"
+			],
+			"zipCodes": [
+				"11367",
+				"11375",
+				"11415",
+				"11424",
+				"11432",
+				"11435"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Far Rockaway"
+			],
+			"neighborhood": "Broad Channel",
+			"state": "New York",
+			"subway_lines": [
+				"A"
+			],
+			"zipCodes": [
+				"11693"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Laurelton",
+				"Springfield Gardens",
+				"Hempstead",
+				"Rochdale",
+				"Rosedale"
+			],
+			"neighborhood": "Brookville",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11568",
+				"11545",
+				"11548"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Laurelton",
+				"St",
+				"Hempstead",
+				"Queens Village",
+				"Rosedale"
+			],
+			"neighborhood": "Cambria Heights",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11003",
+				"11411",
+				"11413",
+				"11422",
+				"11580"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Bowne Park",
+				"Bay Terrace",
+				"Bayside",
+				"Murray Hill",
+				"Auburndale",
+				"Beechhurst"
+			],
+			"neighborhood": "Clearview",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11357",
+				"11360"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Flushing",
+				"Bowne Park",
+				"Whitestone",
+				"Malba"
+			],
+			"neighborhood": "College Point",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11351",
+				"11354",
+				"11356",
+				"11357"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Floral Park",
+				"Bellerose",
+				"North Hempstead",
+				"Glen Oaks"
+			],
+			"neighborhood": "Douglaston",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11362",
+				"11363"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Long Island City",
+				"Sunnyside",
+				"Greenpoint"
+			],
+			"neighborhood": "Dutch Kills",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"W",
+				"N"
+			],
+			"zipCodes": [
+				"11101"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"North Corona",
+				"Jackson Heights"
+			],
+			"neighborhood": "East Elmhurst",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11105",
+				"11368",
+				"11369",
+				"11370",
+				"11371",
+				"11372",
+				"11377"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Rockaway Beach",
+				"Hempstead",
+				"Arverne",
+				"Far Rockaway",
+				"Bayswater"
+			],
+			"neighborhood": "Edgemere",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"L",
+				"S",
+				"C",
+				"A",
+				"B",
+				"J"
+			],
+			"zipCodes": [
+				"11691"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Rego Park"
+			],
+			"neighborhood": "Elmhurst",
+			"state": "New York",
+			"subway_lines": [
+				"R",
+				"M"
+			],
+			"zipCodes": [
+				"11368",
+				"11372",
+				"11373",
+				"11374",
+				"11377",
+				"11378",
+				"11379"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Rockaway Beach",
+				"Broad Channel",
+				"Hammels",
+				"Hempstead",
+				"Edgemere",
+				"Arverne",
+				"Bayswater"
+			],
+			"neighborhood": "Far Rockaway",
+			"state": "New York",
+			"subway_lines": [
+				"A"
+			],
+			"zipCodes": [
+				"11096",
+				"11559",
+				"11691",
+				"11692",
+				"11695"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Floral Park",
+				"Bellerose",
+				"North Hempstead",
+				"Hempstead"
+			],
+			"neighborhood": "Floral Park",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11001"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"College Point",
+				"Bowne Park",
+				"East Flushing",
+				"Malba",
+				"Murray Hill",
+				"Queensboro Hill",
+				"Whitestone"
+			],
+			"neighborhood": "Flushing",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11354",
+				"11355",
+				"11358",
+				"11365",
+				"11367",
+				"11368"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"College Point",
+				"Bowne Park",
+				"East Flushing",
+				"Malba",
+				"Murray Hill",
+				"Queensboro Hill",
+				"Whitestone"
+			],
+			"neighborhood": "Flushing (Downtown)",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11354",
+				"11355"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Briarwood",
+				"Kew Gardens",
+				"Rego Park"
+			],
+			"neighborhood": "Forest Hills",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"M",
+				"F",
+				"R"
+			],
+			"zipCodes": [
+				"11367",
+				"11368",
+				"11374",
+				"11375",
+				"11385",
+				"11415",
+				"11418",
+				"11421",
+				"11424"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Kew Gardens",
+				"Corona",
+				"Middle Village",
+				"Rego Park",
+				"Glendale"
+			],
+			"neighborhood": "Forest Hills Gardens",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"F"
+			],
+			"zipCodes": [
+				"ZIP Code 11375",
+				"",
+				"11375",
+				"11415"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Auburndale",
+				"Utopia",
+				"Jamaica Estates"
+			],
+			"neighborhood": "Fresh Meadows",
+			"state": "New York",
+			"subway_lines": [
+				"F"
+			],
+			"zipCodes": [
+				"11364",
+				"11365",
+				"11366",
+				"11423",
+				"11427",
+				"11432"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Floral Park",
+				"Douglaston",
+				"North Hempstead",
+				"Little Neck",
+				"Bellerose"
+			],
+			"neighborhood": "Glen Oaks",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11004",
+				"11005",
+				"11040",
+				"11042",
+				"11362",
+				"11426",
+				"11427"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Bedford - Stuyvesant",
+				"Ridgewood",
+				"Cypress Hills",
+				"Forest Hills",
+				"East New York",
+				"Brownsville",
+				"Bushwick",
+				"Middle Village",
+				"Highland Park",
+				"Rego Park"
+			],
+			"neighborhood": "Glendale",
+			"state": "New York",
+			"subway_lines": [
+				"Z",
+				"J"
+			],
+			"zipCodes": [
+				"11207",
+				"11208",
+				"11374",
+				"11379",
+				"11385",
+				"11421"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Rockaway Beach",
+				"Rockaway Park",
+				"Seaside",
+				"Arverne",
+				"Far Rockaway"
+			],
+			"neighborhood": "Hammels",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"L",
+				"S",
+				"C",
+				"A",
+				"B",
+				"J"
+			],
+			"zipCodes": [
+				"11693"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Utopia",
+				"Kew Gardens Hills",
+				"Jamaica Estates",
+				"Pomonok",
+				"Jamaica Hills",
+				"Briarwood"
+			],
+			"neighborhood": "Hillcrest",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"M",
+				"F",
+				"R"
+			],
+			"zipCodes": [
+				"11366",
+				"11432"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Oakland Gardens",
+				"Jamaica",
+				"Holliswood",
+				"St",
+				"Jamaica Estates",
+				"Queens Village"
+			],
+			"neighborhood": "Hollis",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"L",
+				"S",
+				"C",
+				"A",
+				"B",
+				"J"
+			],
+			"zipCodes": [
+				"11412",
+				"11423",
+				"11427",
+				"11428",
+				"11429",
+				"11433"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Hollis",
+				"Oakland Gardens",
+				"Jamaica",
+				"Jamaica Estates",
+				"Queens Village"
+			],
+			"neighborhood": "Holliswood",
+			"state": "New York",
+			"subway_lines": [
+				"F"
+			],
+			"zipCodes": [
+				"11423",
+				"11427"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Howard Beach",
+				"South Ozone Park",
+				"Ozone Park",
+				"Lindenwood"
+			],
+			"neighborhood": "Howard Beach",
+			"state": "New York",
+			"subway_lines": [
+				"A"
+			],
+			"zipCodes": [
+				"11208",
+				"11414",
+				"11430"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Long Island City",
+				"Sunnyside",
+				"Greenpoint"
+			],
+			"neighborhood": "Hunters Point",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"7",
+				"G"
+			],
+			"zipCodes": [
+				"11101",
+				"11109",
+				"11222"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Woodside",
+				"Astoria",
+				"Elmhurst"
+			],
+			"neighborhood": "Jackson Heights",
+			"state": "New York",
+			"subway_lines": [
+				"7",
+				"R",
+				"M",
+				"E",
+				"F"
+			],
+			"zipCodes": [
+				"11372",
+				"11373",
+				"11377"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Jamaica",
+				"Hillcrest",
+				"Jamaica Estates",
+				"Briarwood"
+			],
+			"neighborhood": "Jamaica",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"J"
+			],
+			"zipCodes": [
+				"11412",
+				"11418",
+				"11419",
+				"11420",
+				"11423",
+				"11432",
+				"11433",
+				"11434",
+				"11435",
+				"11436",
+				"11451"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Fresh Meadows",
+				"Hollis",
+				"Jamaica",
+				"Holliswood",
+				"Hillcrest",
+				"Utopia",
+				"Jamaica Hills"
+			],
+			"neighborhood": "Jamaica Estates",
+			"state": "New York",
+			"subway_lines": [
+				"F"
+			],
+			"zipCodes": [
+				"11366",
+				"11423",
+				"11432"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Jamaica",
+				"Hillcrest",
+				"Jamaica Estates",
+				"Briarwood"
+			],
+			"neighborhood": "Jamaica Hills",
+			"state": "New York",
+			"subway_lines": [
+				"F"
+			],
+			"zipCodes": [
+				"ZIP Code 11432",
+				"",
+				"11432"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Briarwood",
+				"Forest Hills"
+			],
+			"neighborhood": "Kew Gardens",
+			"state": "New York",
+			"subway_lines": [
+				"E"
+			],
+			"zipCodes": [
+				"11375",
+				"11415",
+				"11418",
+				"11424",
+				"11435"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Kew Gardens",
+				"Hillcrest",
+				"Pomonok",
+				"Queensboro Hill",
+				"Briarwood"
+			],
+			"neighborhood": "Kew Gardens Hills",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"F"
+			],
+			"zipCodes": [
+				"11355",
+				"11365",
+				"11366",
+				"11367",
+				"11435"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Brookville",
+				"Cambria Heights",
+				"Springfield Gardens",
+				"St",
+				"Hempstead",
+				"Rochdale",
+				"Rosedale"
+			],
+			"neighborhood": "Laurelton",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11411",
+				"11413",
+				"11422"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Corona",
+				"Elmhurst"
+			],
+			"neighborhood": "Lefrak City",
+			"state": "New York",
+			"subway_lines": [
+				"R",
+				"M"
+			],
+			"zipCodes": [
+				"11374",
+				"11368",
+				"11373",
+				"11375"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"East New York",
+				"Howard Beach",
+				"Ozone Park",
+				"Old Howard Beach"
+			],
+			"neighborhood": "Lindenwood",
+			"state": "New York",
+			"subway_lines": [
+				"A"
+			],
+			"zipCodes": [
+				"11414"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Floral Park",
+				"Bellerose",
+				"North Hempstead",
+				"Glen Oaks"
+			],
+			"neighborhood": "Little Neck",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11362",
+				"11021",
+				"11363",
+				"11361"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Astoria",
+				"Sunnyside",
+				"Blissville"
+			],
+			"neighborhood": "Long Island City",
+			"state": "New York",
+			"subway_lines": [
+				"7",
+				"R",
+				"M",
+				"N",
+				"E",
+				"G",
+				"F",
+				"Q"
+			],
+			"zipCodes": [
+				"11103",
+				"11102",
+				"11101",
+				"11377",
+				"11106"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Flushing",
+				"College Point",
+				"Bowne Park",
+				"Whitestone"
+			],
+			"neighborhood": "Malba",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"L",
+				"S",
+				"C",
+				"A",
+				"B",
+				"J"
+			],
+			"zipCodes": [
+				"11356",
+				"11357"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Ridgewood",
+				"East Williamsburg",
+				"Williamsburg",
+				"Elmhurst",
+				"Greenpoint",
+				"Middle Village",
+				"Woodside",
+				"Sunnyside"
+			],
+			"neighborhood": "Maspeth",
+			"state": "New York",
+			"subway_lines": [
+				"7",
+				"L"
+			],
+			"zipCodes": [
+				"11101",
+				"11211",
+				"11237",
+				"11372",
+				"11373",
+				"11377",
+				"11378",
+				"11379",
+				"11385"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Ridgewood",
+				"Forest Hills",
+				"Elmhurst",
+				"Rego Park",
+				"Glendale",
+				"Maspeth"
+			],
+			"neighborhood": "Middle Village",
+			"state": "New York",
+			"subway_lines": [
+				"M"
+			],
+			"zipCodes": [
+				"11373",
+				"11374",
+				"11379",
+				"11385"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Gramercy",
+				"Flatiron",
+				"NoMad",
+				"Midtown East",
+				"Fashion District"
+			],
+			"neighborhood": "Murray Hill",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"4",
+				"5",
+				"7"
+			],
+			"zipCodes": [
+				"10016",
+				"10017",
+				"10165",
+				"10168"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Roxbury",
+				"Breezy Point",
+				"Rockaway Beach",
+				"Rockaway Park",
+				"Seaside"
+			],
+			"neighborhood": "Neponsit",
+			"state": "New York",
+			"subway_lines": [
+				"S"
+			],
+			"zipCodes": [
+				"11694",
+				"11697"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Floral Park",
+				"Bellerose",
+				"North Hempstead",
+				"Hempstead"
+			],
+			"neighborhood": "New Hyde Park",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11040"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Elmhurst",
+				"East Elmhurst",
+				"Corona",
+				"Jackson Heights"
+			],
+			"neighborhood": "North Corona",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11368"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Hollis",
+				"Floral Park",
+				"Holliswood",
+				"Bellerose",
+				"Queens Village"
+			],
+			"neighborhood": "Oakland Gardens",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11362",
+				"11364",
+				"11366",
+				"11427"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Cypress Hills",
+				"South Ozone Park",
+				"Lindenwood",
+				"Howard Beach",
+				"Richmond Hill",
+				"Woodhaven",
+				"Old Howard Beach",
+				"East New York"
+			],
+			"neighborhood": "Ozone Park",
+			"state": "New York",
+			"subway_lines": [
+				"A"
+			],
+			"zipCodes": [
+				"11414",
+				"11416",
+				"11417",
+				"11418",
+				"11419",
+				"11420",
+				"11421",
+				"11430"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Queensboro Hill",
+				"Hillcrest",
+				"Kew Gardens Hills",
+				"Utopia"
+			],
+			"neighborhood": "Pomonok",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"L",
+				"S",
+				"C",
+				"A",
+				"B",
+				"J"
+			],
+			"zipCodes": [
+				"ZIP Code 11365",
+				"",
+				"11355",
+				"11365",
+				"11367"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Hollis",
+				"Oakland Gardens",
+				"Floral Park",
+				"Cambria Heights",
+				"Holliswood",
+				"St",
+				"Hempstead",
+				"Bellerose"
+			],
+			"neighborhood": "Queens Village",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11003",
+				"11366",
+				"11411",
+				"11423",
+				"11427",
+				"11428",
+				"11429"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"East Flushing",
+				"Utopia",
+				"Kew Gardens Hills",
+				"Pomonok",
+				"Flushing",
+				"Auburndale"
+			],
+			"neighborhood": "Queensboro Hill",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"F"
+			],
+			"zipCodes": [
+				"11367",
+				"11355"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Astoria",
+				"Long Island City"
+			],
+			"neighborhood": "Ravenswood",
+			"state": "New York",
+			"subway_lines": [
+				"R",
+				"M",
+				"N"
+			],
+			"zipCodes": [
+				"11106"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Elmhurst",
+				"Forest Hills"
+			],
+			"neighborhood": "Rego Park",
+			"state": "New York",
+			"subway_lines": [
+				"R",
+				"M"
+			],
+			"zipCodes": [
+				"11373",
+				"11374",
+				"11375",
+				"11379",
+				"11385"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Kew Gardens",
+				"South Ozone Park",
+				"Jamaica",
+				"Woodhaven",
+				"Ozone Park",
+				"Briarwood"
+			],
+			"neighborhood": "Richmond Hill",
+			"state": "New York",
+			"subway_lines": [
+				"J"
+			],
+			"zipCodes": [
+				"11416",
+				"11418",
+				"11419",
+				"11421",
+				"11435"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Bushwick",
+				"Williamsburg"
+			],
+			"neighborhood": "Ridgewood",
+			"state": "New York",
+			"subway_lines": [
+				"M",
+				"L"
+			],
+			"zipCodes": [
+				"11207",
+				"11237",
+				"11379",
+				"11385"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Brookville",
+				"South Ozone Park",
+				"South Jamaica",
+				"Laurelton",
+				"Springfield Gardens",
+				"St"
+			],
+			"neighborhood": "Rochdale",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"J"
+			],
+			"zipCodes": [
+				"11413",
+				"11434"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Rockaway Beach",
+				"Hammels",
+				"Neponsit",
+				"Belle Harbor"
+			],
+			"neighborhood": "Rockaway Park",
+			"state": "New York",
+			"subway_lines": [
+				"S"
+			],
+			"zipCodes": [
+				"11694"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Brookville",
+				"Laurelton",
+				"Cambria Heights",
+				"Springfield Gardens",
+				"Hempstead"
+			],
+			"neighborhood": "Rosedale",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11096",
+				"11413",
+				"11422",
+				"11430",
+				"11559",
+				"11581"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Rockaway Beach",
+				"Neponsit",
+				"Belle Harbor"
+			],
+			"neighborhood": "Roxbury",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11697"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Rockaway Beach",
+				"Hammels",
+				"Neponsit",
+				"Belle Harbor"
+			],
+			"neighborhood": "Seaside",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"L",
+				"S",
+				"C",
+				"A",
+				"B",
+				"J"
+			],
+			"zipCodes": [
+				"11694",
+				"11693"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Arverne",
+				"Broad Channel",
+				"Edgemere",
+				"Hammels",
+				"Seaside"
+			],
+			"neighborhood": "Somerville",
+			"state": "New York",
+			"subway_lines": [
+				"6",
+				"L",
+				"S",
+				"C",
+				"A",
+				"B",
+				"J"
+			],
+			"zipCodes": [
+				"11692"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Elmhurst",
+				"North Corona",
+				"Rego Park",
+				"Forest Hills"
+			],
+			"neighborhood": "South Corona",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11368"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Jamaica",
+				"St",
+				"Rochdale",
+				"South Ozone Park"
+			],
+			"neighborhood": "South Jamaica",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"A"
+			],
+			"zipCodes": [
+				"11434",
+				"11436"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Jamaica",
+				"South Jamaica",
+				"Springfield Gardens",
+				"Richmond Hill",
+				"Rochdale",
+				"Old Howard Beach",
+				"Ozone Park"
+			],
+			"neighborhood": "South Ozone Park",
+			"state": "New York",
+			"subway_lines": [
+				"E",
+				"A"
+			],
+			"zipCodes": [
+				"11419",
+				"11420",
+				"11430",
+				"11434",
+				"11436"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Brookville",
+				"South Ozone Park",
+				"Laurelton",
+				"Rochdale",
+				"Rosedale"
+			],
+			"neighborhood": "Springfield Gardens",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"11413",
+				"11422",
+				"11430",
+				"11434"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Hollis",
+				"Laurelton",
+				"Jamaica",
+				"Cambria Heights",
+				"South Jamaica",
+				"Hempstead",
+				"Rochdale",
+				"Queens Village"
+			],
+			"neighborhood": "St. Albans",
+			"state": "New York",
+			"subway_lines": [
+				"F"
+			],
+			"zipCodes": [
+				"11412",
+				"11433",
+				"11413",
+				"11434"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Astoria",
+				"Jackson Heights",
+				"Woodside"
+			],
+			"neighborhood": "Steinway",
+			"state": "New York",
+			"subway_lines": [
+				"R",
+				"M"
+			],
+			"zipCodes": [
+				"11105",
+				"11370"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Long Island City",
+				"Astoria",
+				"Woodside"
+			],
+			"neighborhood": "Sunnyside",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"10301",
+				"10314"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [],
+			"neighborhood": "Sunnyside Gardens",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11101",
+				"11104",
+				"11377"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Fresh Meadows",
+				"Hillcrest",
+				"Jamaica Estates",
+				"Pomonok",
+				"Queensboro Hill",
+				"Auburndale"
+			],
+			"neighborhood": "Utopia",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11366"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"College Point",
+				"Bowne Park",
+				"Malba",
+				"Flushing",
+				"Beechhurst"
+			],
+			"neighborhood": "Whitestone",
+			"state": "New York",
+			"subway_lines": [
+				"7"
+			],
+			"zipCodes": [
+				"11351",
+				"11354",
+				"11356",
+				"11357",
+				"11358",
+				"11360"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"East New York",
+				"Richmond Hill",
+				"Ozone Park",
+				"Cypress Hills"
+			],
+			"neighborhood": "Woodhaven",
+			"state": "New York",
+			"subway_lines": [
+				"J"
+			],
+			"zipCodes": [
+				"11208",
+				"11416",
+				"11418",
+				"11421"
+			]
+		},
+		{
+			"borough": "Queens",
+			"nearby_neighborhoods": [
+				"Astoria",
+				"Sunnyside",
+				"Jackson Heights"
+			],
+			"neighborhood": "Woodside",
+			"state": "New York",
+			"subway_lines": [
+				"7",
+				"M",
+				"R"
+			],
+			"zipCodes": [
+				"11101",
+				"11103",
+				"11104",
+				"11372",
+				"11377"
+			]
+		}
+	]
 }

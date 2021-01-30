@@ -1,7 +1,9 @@
 {
     "bronx": [
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "10467"
+            ],
             "neighborhood": "Allerton"
         },
         {
@@ -49,7 +51,10 @@
             "neighborhood": "Bronx Park South"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "10459",
+                "10472"
+            ],
             "neighborhood": "Bronx River"
         },
         {
@@ -66,7 +71,10 @@
             "neighborhood": "City Island"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "10456",
+                "10457"
+            ],
             "neighborhood": "Claremont Village"
         },
         {
@@ -177,7 +185,10 @@
             "neighborhood": "Kingsbridge"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "10463",
+                "10468"
+            ],
             "neighborhood": "Kingsbridge Heights"
         },
         {
@@ -264,7 +275,10 @@
             "neighborhood": "Norwood"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "10466",
+                "10467"
+            ],
             "neighborhood": "Olinville"
         },
         {
@@ -293,7 +307,10 @@
             "neighborhood": "Pelham Gardens"
         },
         {
-            "zipCodes": [],
+            "zipCodes": [
+                "10461",
+                "10462"
+            ],
             "neighborhood": "Pelham Parkway"
         },
         {
