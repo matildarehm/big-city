@@ -6,6 +6,8 @@ from dotenv import load_dotenv
 # environment variables
 load_dotenv()
 NYC_PASS = os.getenv("nyc_villager_password")
+NYC_USR = os.getenv("nyc_villager_user")
+CLUSTER_NAME  = os.getenv("nyc_cluster_name")
 
 
 def parse_boroughs(borough):
@@ -40,8 +42,7 @@ def borough_parse(db, parse, borough_name):
 
 
 def main():
-    client = pymongo.MongoClient("mongodb+srv://nyc-villager:" + NYC_PASS + "@big-city.uj5zr.mongodb.net")
-    print("mongodb+srv://nyc-villager:" + NYC_PASS + "@big-city.uj5zr.mongodb.net")
+    client = pymongo.MongoClient("mongodb+srv://" + NYC_USR + ":" + NYC_PASS + "@" + CLUSTER_NAME + ".uj5zr.mongodb.net")
     db = client.get_database("village-nyc")
     borough_files = os.listdir("./boroughs")
     for borough in borough_files:
