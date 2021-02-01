@@ -1,510 +1,582 @@
 {
-    "brooklyn": [
-        {
-            "zipCodes": [
-                "11209",
-                "11214",
-                "11224",
-                "11228"
-            ],
-            "neighborhood": "Bath Beach"
-        },
-        {
-            "zipCodes": [
-                "11209",
-                "11220"
-            ],
-            "neighborhood": "Bay Ridge"
-        },
-        {
-            "zipCodes": [
-                "11205",
-                "11206",
-                "11213",
-                "11216",
-                "11221",
-                "11233",
-                "11238"
-            ],
-            "neighborhood": "Bedford Stuyvesant"
-        },
-        {
-            "zipCodes": [
-                "11204",
-                "11214",
-                "11219",
-                "11223",
-                "11228"
-            ],
-            "neighborhood": "Bensonhurst"
-        },
-        {
-            "zipCodes": [
-                "11234"
-            ],
-            "neighborhood": "Bergen Beach"
-        },
-        {
-            "zipCodes": [
-                "11201",
-                "11217"
-            ],
-            "neighborhood": "Boerum Hill"
-        },
-        {
-            "zipCodes": [
-                "11204",
-                "11218",
-                "11219",
-                "11220",
-                "11230"
-            ],
-            "neighborhood": "Borough Park"
-        },
-        {
-            "zipCodes": [
-                "11224",
-                "11235"
-            ],
-            "neighborhood": "Brighton Beach"
-        },
-        {
-            "zipCodes": [
-                "10004",
-                "11201"
-            ],
-            "neighborhood": "Brooklyn Heights"
-        },
-        {
-            "zipCodes": [
-                "11207",
-                "11212",
-                "11233",
-                "11236"
-            ],
-            "neighborhood": "Brownsville"
-        },
-        {
-            "zipCodes": [
-                "11206",
-                "11207",
-                "11221",
-                "11233",
-                "11237",
-                "11385"
-            ],
-            "neighborhood": "Bushwick"
-        },
-        {
-            "zipCodes": [
-                "11234",
-                "11236",
-                "11239"
-            ],
-            "neighborhood": "Canarsie"
-        },
-        {
-            "zipCodes": [
-                "11201",
-                "11231"
-            ],
-            "neighborhood": "Carroll Gardens"
-        },
-        {
-            "zipCodes": [
-                "11205",
-                "11211",
-                "11238"
-            ],
-            "neighborhood": "Clinton Hill"
-        },
-        {
-            "zipCodes": [
-                "11201",
-                "11231"
-            ],
-            "neighborhood": "Cobble Hill"
-        },
-        {
-            "zipCodes": [
-                "11214",
-                "11224",
-                "11235"
-            ],
-            "neighborhood": "Coney Island"
-        },
-        {
-            "zipCodes": [
-                "11213",
-                "11216",
-                "11225",
-                "11233",
-                "11238"
-            ],
-            "neighborhood": "Crown Heights"
-        },
-        {
-            "zipCodes": ["11207", "11208", "11239"],
-            "neighborhood": "Cypress Hills"
-        },
-        {
-            "zipCodes": [
-                "11226"
-            ],
-            "neighborhood": "Ditmas Park"
-        },
-        {
-            "zipCodes": [
-                "11201"
-            ],
-            "neighborhood": "Downtown Brooklyn"
-        },
-        {
-            "zipCodes": [
-                "11201"
-            ],
-            "neighborhood": "DUMBO"
-        },
-        {
-            "zipCodes": [
-                "11209",
-                "11219",
-                "11220",
-                "11228"
-            ],
-            "neighborhood": "Dyker Heights"
-        },
-        {
-            "zipCodes": [
-                "11203",
-                "11210",
-                "11212",
-                "11236"
-            ],
-            "neighborhood": "East Flatbush"
-        },
-        {
-            "zipCodes": [
-                "11207",
-                "11208",
-                "11212",
-                "11233",
-                "11236",
-                "11239",
-                "11385",
-                "11414",
-                "11421"
-            ],
-            "neighborhood": "East New York"
-        },
-        {
-            "zipCodes": [
-                "11222",
-                "11211",
-                "11378",
-                "11237",
-                "11206"
-            ],
-            "neighborhood": "East Williamsburg"
-        },
-        {
-            "zipCodes": [
-                "11210",
-                "11203"
-            ],
-            "neighborhood": "Farragut"
-        },
-        {
-            "zipCodes": [
-                "11203",
-                "11210",
-                "11218",
-                "11225",
-                "11226",
-                "11230"
-            ],
-            "neighborhood": "Flatbush"
-        },
-        {
-            "zipCodes": [
-                "11210",
-                "11234",
-                "11236"
-            ],
-            "neighborhood": "Flatlands"
-        },
-        {
-            "zipCodes": [
-                "11201",
-                "11205",
-                "11217",
-                "11238"
-            ],
-            "neighborhood": "Fort Greene"
-        },
-        {
-            "zipCodes": [
-                "11209",
-                "11228",
-                "11425"
-            ],
-            "neighborhood": "Fort Hamilton"
-        },
-        {
-            "zipCodes": [
-                "ZIP Code 11234",
-                "",
-                "11234"
-            ],
-            "neighborhood": "Georgetown"
-        },
-        {
-            "zipCodes": [
-                "ZIP Code 11229",
-                "",
-                "11229",
-                "11235"
-            ],
-            "neighborhood": "Gerritsen Beach"
-        },
-        {
-            "zipCodes": [
-                "11201",
-                "11215",
-                "11217",
-                "11231",
-                "11232"
-            ],
-            "neighborhood": "Gowanus"
-        },
-        {
-            "zipCodes": [
-                "11223",
-                "11224",
-                "11235"
-            ],
-            "neighborhood": "Gravesend"
-        },
-        {
-            "zipCodes": [
-                "11101",
-                "11211",
-                "11222"
-            ],
-            "neighborhood": "Greenpoint"
-        },
-        {
-            "zipCodes": ["11232"],
-            "neighborhood": "Greenwood Heights"
-        },
-        {
-            "zipCodes": [
-                "11207",
-                "11385",
-                "11208"
-            ],
-            "neighborhood": "Highland Park"
-        },
-        {
-            "zipCodes": [
-                "11223",
-                "11229"
-            ],
-            "neighborhood": "Homecrest"
-        },
-        {
-            "zipCodes": [
-                "11204",
-                "11215",
-                "11218",
-                "11230"
-            ],
-            "neighborhood": "Kensington"
-        },
-        {
-            "zipCodes": [
-                "11235"
-            ],
-            "neighborhood": "Manhattan Beach"
-        },
-        {
-            "zipCodes": [
-                "11230",
-                "11210",
-                "11229"
-            ],
-            "neighborhood": "Manhattan Terrace Brooklyn"
-        },
-        {
-            "zipCodes": [
-                "84663",
-                "84664"
-            ],
-            "neighborhood": "Mapleton"
-        },
-        {
-            "zipCodes": [
-                "11229",
-                "11234"
-            ],
-            "neighborhood": "Marine Park"
-        },
-        {
-            "zipCodes": [
-                "11210",
-                "11229",
-                "11230",
-                "11234"
-            ],
-            "neighborhood": "Midwood"
-        },
-        {
-            "zipCodes": [
-                "ZIP Code 11234",
-                "",
-                "11234"
-            ],
-            "neighborhood": "Mill Basin"
-        },
-        {
-            "zipCodes": [
-                "11201",
-                "11205",
-                "11211"
-            ],
-            "neighborhood": "Navy Yard"
-        },
-        {
-            "zipCodes": [
-                "11215",
-                "11217",
-                "11238"
-            ],
-            "neighborhood": "Park Slope"
-        },
-        {
-            "zipCodes": [
-                "11230"
-            ],
-            "neighborhood": "Parkville"
-        },
-        {
-            "zipCodes": ["11235"],
-            "neighborhood": "Plumb Beach"
-        },
-        {
-            "zipCodes": [
-                "11217",
-                "11238"
-            ],
-            "neighborhood": "Prospect Heights"
-        },
-        {
-            "zipCodes": [
-                "11225",
-                "11226"
-            ],
-            "neighborhood": "Prospect Lefferts Gardens"
-        },
-        {
-            "zipCodes": [
-                "11218",
-                "11226"
-            ],
-            "neighborhood": "Prospect Park South"
-        },
-        {
-            "zipCodes": [
-                "11201",
-                "11215",
-                "11231"
-            ],
-            "neighborhood": "Red Hook"
-        },
-        {
-            "zipCodes": [
-                "13438"
-            ],
-            "neighborhood": "Remsen Village"
-        },
-        {
-            "zipCodes": [
-                "11224"
-            ],
-            "neighborhood": "Sea Gate"
-        },
-        {
-            "zipCodes": [
-                "11229",
-                "11234",
-                "11235"
-            ],
-            "neighborhood": "Sheepshead Bay"
-        },
-        {
-            "zipCodes": [
-                "11239",
-                "11208"
-            ],
-            "neighborhood": "Spring Creek"
-        },
-        {
-            "zipCodes": [
-                "11213",
-                "11233",
-                "11221",
-                "11206"
-            ],
-            "neighborhood": "Stuyvesant Heights"
-        },
-        {
-            "zipCodes": [
-                "11219",
-                "11220",
-                "11232"
-            ],
-            "neighborhood": "Sunset Park"
-        },
-        {
-            "zipCodes": [
-                "11201",
-                "11205"
-            ],
-            "neighborhood": "Vinegar Hill"
-        },
-        {
-            "zipCodes": [
-                "11213",
-                "11233"
-            ],
-            "neighborhood": "Weeksville"
-        },
-        {
-            "zipCodes": [
-                "11205",
-                "11206",
-                "11211",
-                "11222",
-                "11237",
-                "11378",
-                "11385"
-            ],
-            "neighborhood": "Williamsburg"
-        },
-        {
-            "zipCodes": [
-                "11215",
-                "11218"
-            ],
-            "neighborhood": "Windsor Terrace"
-        },
-        {
-            "zipCodes": [
-                "11203",
-                "11213",
-                "11225"
-            ],
-            "neighborhood": "Wingate"
-        }
-    ]
+  "brooklyn": [
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11209",
+        "11214",
+        "11224",
+        "11228"
+      ],
+      "neighborhood": "Bath Beach"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11209",
+        "11220"
+      ],
+      "neighborhood": "Bay Ridge"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11205",
+        "11206",
+        "11213",
+        "11216",
+        "11221",
+        "11233",
+        "11238"
+      ],
+      "neighborhood": "Bedford Stuyvesant"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11204",
+        "11214",
+        "11219",
+        "11223",
+        "11228"
+      ],
+      "neighborhood": "Bensonhurst"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11234"
+      ],
+      "neighborhood": "Bergen Beach"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11201",
+        "11217"
+      ],
+      "neighborhood": "Boerum Hill"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11204",
+        "11218",
+        "11219",
+        "11220",
+        "11230"
+      ],
+      "neighborhood": "Borough Park"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11224",
+        "11235"
+      ],
+      "neighborhood": "Brighton Beach"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "10004",
+        "11201"
+      ],
+      "neighborhood": "Brooklyn Heights"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11207",
+        "11212",
+        "11233",
+        "11236"
+      ],
+      "neighborhood": "Brownsville"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11206",
+        "11207",
+        "11221",
+        "11233",
+        "11237",
+        "11385"
+      ],
+      "neighborhood": "Bushwick"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11234",
+        "11236",
+        "11239"
+      ],
+      "neighborhood": "Canarsie"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11201",
+        "11231"
+      ],
+      "neighborhood": "Carroll Gardens"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11205",
+        "11211",
+        "11238"
+      ],
+      "neighborhood": "Clinton Hill"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11201",
+        "11231"
+      ],
+      "neighborhood": "Cobble Hill"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11214",
+        "11224",
+        "11235"
+      ],
+      "neighborhood": "Coney Island"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11213",
+        "11216",
+        "11225",
+        "11233",
+        "11238"
+      ],
+      "neighborhood": "Crown Heights"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11207",
+        "11208",
+        "11239"
+      ],
+      "neighborhood": "Cypress Hills"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11226"
+      ],
+      "neighborhood": "Ditmas Park"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11201"
+      ],
+      "neighborhood": "Downtown Brooklyn"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11201"
+      ],
+      "neighborhood": "DUMBO"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11209",
+        "11219",
+        "11220",
+        "11228"
+      ],
+      "neighborhood": "Dyker Heights"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11203",
+        "11210",
+        "11212",
+        "11236"
+      ],
+      "neighborhood": "East Flatbush"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11207",
+        "11208",
+        "11212",
+        "11233",
+        "11236",
+        "11239",
+        "11385",
+        "11414",
+        "11421"
+      ],
+      "neighborhood": "East New York"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11222",
+        "11211",
+        "11378",
+        "11237",
+        "11206"
+      ],
+      "neighborhood": "East Williamsburg"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11210",
+        "11203"
+      ],
+      "neighborhood": "Farragut"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11203",
+        "11210",
+        "11218",
+        "11225",
+        "11226",
+        "11230"
+      ],
+      "neighborhood": "Flatbush"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11210",
+        "11234",
+        "11236"
+      ],
+      "neighborhood": "Flatlands"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11201",
+        "11205",
+        "11217",
+        "11238"
+      ],
+      "neighborhood": "Fort Greene"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11209",
+        "11228",
+        "11425"
+      ],
+      "neighborhood": "Fort Hamilton"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "ZIP Code 11234",
+        "",
+        "11234"
+      ],
+      "neighborhood": "Georgetown"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "ZIP Code 11229",
+        "",
+        "11229",
+        "11235"
+      ],
+      "neighborhood": "Gerritsen Beach"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11201",
+        "11215",
+        "11217",
+        "11231",
+        "11232"
+      ],
+      "neighborhood": "Gowanus"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11223",
+        "11224",
+        "11235"
+      ],
+      "neighborhood": "Gravesend"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11101",
+        "11211",
+        "11222"
+      ],
+      "neighborhood": "Greenpoint"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11232"
+      ],
+      "neighborhood": "Greenwood Heights"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11207",
+        "11385",
+        "11208"
+      ],
+      "neighborhood": "Highland Park"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11223",
+        "11229"
+      ],
+      "neighborhood": "Homecrest"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11204",
+        "11215",
+        "11218",
+        "11230"
+      ],
+      "neighborhood": "Kensington"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11235"
+      ],
+      "neighborhood": "Manhattan Beach"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11230",
+        "11210",
+        "11229"
+      ],
+      "neighborhood": "Manhattan Terrace Brooklyn"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "84663",
+        "84664"
+      ],
+      "neighborhood": "Mapleton"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11229",
+        "11234"
+      ],
+      "neighborhood": "Marine Park"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11210",
+        "11229",
+        "11230",
+        "11234"
+      ],
+      "neighborhood": "Midwood"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "ZIP Code 11234",
+        "",
+        "11234"
+      ],
+      "neighborhood": "Mill Basin"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11201",
+        "11205",
+        "11211"
+      ],
+      "neighborhood": "Navy Yard"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11215",
+        "11217",
+        "11238"
+      ],
+      "neighborhood": "Park Slope"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11230"
+      ],
+      "neighborhood": "Parkville"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11235"
+      ],
+      "neighborhood": "Plumb Beach"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11217",
+        "11238"
+      ],
+      "neighborhood": "Prospect Heights"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11225",
+        "11226"
+      ],
+      "neighborhood": "Prospect Lefferts Gardens"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11218",
+        "11226"
+      ],
+      "neighborhood": "Prospect Park South"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11201",
+        "11215",
+        "11231"
+      ],
+      "neighborhood": "Red Hook"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "13438"
+      ],
+      "neighborhood": "Remsen Village"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11224"
+      ],
+      "neighborhood": "Sea Gate"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11229",
+        "11234",
+        "11235"
+      ],
+      "neighborhood": "Sheepshead Bay"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11239",
+        "11208"
+      ],
+      "neighborhood": "Spring Creek"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11213",
+        "11233",
+        "11221",
+        "11206"
+      ],
+      "neighborhood": "Stuyvesant Heights"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11219",
+        "11220",
+        "11232"
+      ],
+      "neighborhood": "Sunset Park"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11201",
+        "11205"
+      ],
+      "neighborhood": "Vinegar Hill"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11213",
+        "11233"
+      ],
+      "neighborhood": "Weeksville"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11205",
+        "11206",
+        "11211",
+        "11222",
+        "11237",
+        "11378",
+        "11385"
+      ],
+      "neighborhood": "Williamsburg"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11215",
+        "11218"
+      ],
+      "neighborhood": "Windsor Terrace"
+    },
+    {
+      "borough": "Brooklyn",
+      "zipCodes": [
+        "11203",
+        "11213",
+        "11225"
+      ],
+      "neighborhood": "Wingate"
+    }
+  ]
 }

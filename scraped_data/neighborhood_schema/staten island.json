@@ -1,0 +1,1009 @@
+{
+	"staten island": [
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Eltingville",
+				"Arden Heights",
+				"Woodrow",
+				"Great Kills"
+			],
+			"neighborhood": "Annadale",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10312"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Eltingville",
+				"Annadale",
+				"Woodrow",
+				"Great Kills"
+			],
+			"neighborhood": "Arden Heights",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10312"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Mariners Harbor",
+				"Graniteville"
+			],
+			"neighborhood": "Arlington",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"12603",
+				"12601"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Old Town",
+				"Concord",
+				"Fort Wadsworth",
+				"South Beach"
+			],
+			"neighborhood": "Arrochar",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10305"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Beechhurst",
+				"Bayside",
+				"Auburndale",
+				"Clearview"
+			],
+			"neighborhood": "Bay Terrace",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"11357",
+				"11359",
+				"11360"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Graniteville",
+				"Travis",
+				"Bulls Head",
+				"Chelsea"
+			],
+			"neighborhood": "Bloomfield",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10303",
+				"10311",
+				"10314"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Emerson Hill",
+				"Graniteville",
+				"Bloomfield",
+				"New Springville",
+				"Castleton Corners"
+			],
+			"neighborhood": "Bulls Head",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10303",
+				"10314"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Silver Lake",
+				"Emerson Hill",
+				"West Brighton",
+				"Graniteville",
+				"Bulls Head",
+				"Port Richmond",
+				"Westerleigh",
+				"Sunnyside",
+				"Elm Park"
+			],
+			"neighborhood": "Castleton Corners",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10301",
+				"10302",
+				"10310",
+				"10314"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Rossville",
+				"Tottenville"
+			],
+			"neighborhood": "Charleston",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10309"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Charleston",
+				"Rossville",
+				"Tottenville"
+			],
+			"neighborhood": "Chelsea",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10001",
+				"10011",
+				"10014",
+				"10018",
+				"10199"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Silver Lake",
+				"Concord",
+				"Stapleton",
+				"Grymes Hill",
+				"Rosebank",
+				"Todt Hill"
+			],
+			"neighborhood": "Clifton",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10304"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Clifton",
+				"Old Town",
+				"Arrochar",
+				"South Beach",
+				"Grymes Hill",
+				"Shore Acres",
+				"Fort Wadsworth",
+				"Rosebank",
+				"Todt Hill"
+			],
+			"neighborhood": "Concord",
+			"state": "New York",
+			"subway_lines": [
+				"2",
+				"6"
+			],
+			"zipCodes": [
+				"14141"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Midland Beach",
+				"Old Town",
+				"South Beach",
+				"New Dorp",
+				"Todt Hill"
+			],
+			"neighborhood": "Dongan Hills",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10304",
+				"10305",
+				"10306"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"New Dorp",
+				"Richmond",
+				"Midland Beach"
+			],
+			"neighborhood": "Egbertville",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10305"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"West Brighton",
+				"Mariners Harbor",
+				"Graniteville",
+				"Bayonne",
+				"Port Richmond",
+				"Castleton Corners",
+				"Westerleigh"
+			],
+			"neighborhood": "Elm Park",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10302",
+				"10303"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Great Kills",
+				"Annadale",
+				"Bay Terrace",
+				"Arden Heights"
+			],
+			"neighborhood": "Eltingville",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10306",
+				"10308",
+				"10312"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Castleton Corners",
+				"Todt Hill",
+				"Sunnyside",
+				"Bulls Head"
+			],
+			"neighborhood": "Emerson Hill",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10301",
+				"10304",
+				"10314"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"West Brighton",
+				"Tompkinsville"
+			],
+			"neighborhood": "Fox Hills",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"90045",
+				"90230"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Mariners Harbor",
+				"Bloomfield",
+				"Bulls Head",
+				"Castleton Corners",
+				"Westerleigh",
+				"Elm Park"
+			],
+			"neighborhood": "Graniteville",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10302",
+				"10303",
+				"10314"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"New Dorp",
+				"Richmond",
+				"Midland Beach",
+				"Egbertville"
+			],
+			"neighborhood": "Grant City",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10306"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Fox Hill",
+				"Emrson Hill",
+				"Todt Hill"
+			],
+			"neighborhood": "Grasmere",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10305",
+				"10304"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Eltingville",
+				"Bay Terrace",
+				"Richmondtown",
+				"Arden Heights",
+				"Annadale"
+			],
+			"neighborhood": "Great Kills",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10306",
+				"10308",
+				"10312"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Arden Heights",
+				"Great Kills"
+			],
+			"neighborhood": "Greenridge",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10312"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Silver Lake",
+				"Clifton",
+				"Concord",
+				"Sunnyside",
+				"Todt Hill"
+			],
+			"neighborhood": "Grymes Hill",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10301",
+				"10304"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"New Springville"
+			],
+			"neighborhood": "Heartland Village",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10314"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Woodrow",
+				"Rossville"
+			],
+			"neighborhood": "Huguenot",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10309",
+				"10312"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"New Dorp",
+				"Richmondtown"
+			],
+			"neighborhood": "Lighthouse Hill",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10306"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"West Orange",
+				"Roseland",
+				"Millburn"
+			],
+			"neighborhood": "Livingston",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"12534"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Mid Island",
+				"Castleton Corners",
+				"Todt Hill"
+			],
+			"neighborhood": "Manor Heights",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10314"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Graniteville",
+				"Westerleigh",
+				"Elm Park"
+			],
+			"neighborhood": "Mariner's Harbor",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10303"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"New Dorp",
+				"Dongan Hills"
+			],
+			"neighborhood": "Midland Beach",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10305",
+				"10306"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Randall Manor",
+				"St",
+				"Tompkinsville"
+			],
+			"neighborhood": "New Brighton",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10301"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Midland Beach",
+				"Richmondtown",
+				"New Dorp Beach",
+				"Oakwood",
+				"Dongan Hills",
+				"Todt Hill",
+				"Lighthouse Hill"
+			],
+			"neighborhood": "New Dorp",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10306"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"New Dorp",
+				"Oakwood"
+			],
+			"neighborhood": "New Dorp Beach",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10306"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Heartland Village",
+				"Bulls Head"
+			],
+			"neighborhood": "New Springville",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10304",
+				"10306",
+				"10314"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"New Dorp",
+				"New Dorp Beach",
+				"Bay Terrace",
+				"Richmondtown"
+			],
+			"neighborhood": "Oakwood",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10306"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Arlington",
+				"Mariners Harbor"
+			],
+			"neighborhood": "Old Place",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10303"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Concord",
+				"Todt Hill",
+				"Dongan Hills",
+				"Arrochar"
+			],
+			"neighborhood": "Old Town",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10304",
+				"10305"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Fox Hills",
+				"Emerson Hill"
+			],
+			"neighborhood": "Park Hill",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10304"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Woodrow",
+				"Richmond Valley"
+			],
+			"neighborhood": "Pleasant Plains",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10307",
+				"10309"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"West Brighton",
+				"Bayonne",
+				"Randall Manor",
+				"Castleton Corners",
+				"Westerleigh",
+				"Elm Park"
+			],
+			"neighborhood": "Port Richmond",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10302",
+				"10303",
+				"10310"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Tottenville",
+				"Annadale",
+				"Woodrow",
+				"Charleston"
+			],
+			"neighborhood": "Prince's Bay",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10309",
+				"10312"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Port Richmond",
+				"West Brighton",
+				"New Brighton",
+				"Tompkinsville"
+			],
+			"neighborhood": "Randall Manor",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10301",
+				"10310"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"New Dorp",
+				"Oakwood",
+				"Bay Terrace",
+				"Great Kills",
+				"Lighthouse Hill"
+			],
+			"neighborhood": "Richmond Town",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10306",
+				"10308"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Tottenville"
+			],
+			"neighborhood": "Richmond Valley",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10307",
+				"10309"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Clifton",
+				"Concord",
+				"Shore Acres"
+			],
+			"neighborhood": "Rosebank",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10305"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Woodrow",
+				"Charleston"
+			],
+			"neighborhood": "Rossville",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10309",
+				"10312"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Concord",
+				"Rosebank",
+				"Fort Wadsworth"
+			],
+			"neighborhood": "Shore Acres",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10305"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Clifton",
+				"West Brighton",
+				"Tompkinsville",
+				"Stapleton",
+				"Grymes Hill",
+				"Castleton Corners",
+				"Sunnyside"
+			],
+			"neighborhood": "Silver Lake",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10301",
+				"10310"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Concord",
+				"Todt Hill",
+				"Dongan Hills",
+				"Arrochar"
+			],
+			"neighborhood": "South Beach",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10305"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Tompkinsville",
+				"Bayonne",
+				"New Brighton",
+				"Stapleton"
+			],
+			"neighborhood": "St. George",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10301"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Silver Lake",
+				"Clifton",
+				"St",
+				"Tompkinsville"
+			],
+			"neighborhood": "Stapleton",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10301",
+				"10304",
+				"10305"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Emerson Hill",
+				"Castleton Corners"
+			],
+			"neighborhood": "Sunnyside",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10301",
+				"10314"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Clifton",
+				"Emerson Hill",
+				"Old Town",
+				"South Beach",
+				"Concord",
+				"Grymes Hill",
+				"New Dorp",
+				"Dongan Hills",
+				"Sunnyside"
+			],
+			"neighborhood": "Todt Hill",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10301",
+				"10304",
+				"10306"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Silver Lake",
+				"New Brighton",
+				"West Brighton",
+				"Stapleton",
+				"Randall Manor"
+			],
+			"neighborhood": "Tompkinsville",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10301",
+				"10304"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Princes Bay",
+				"Charleston"
+			],
+			"neighborhood": "Tottenville",
+			"state": "New York",
+			"subway_lines": [
+				"1"
+			],
+			"zipCodes": [
+				"10307"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Bloomfield"
+			],
+			"neighborhood": "Travis",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10314"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"St. George",
+				"Tompkinsville"
+			],
+			"neighborhood": "Ward Hill",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"14880"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Silver Lake",
+				"Tompkinsville",
+				"Randall Manor",
+				"Port Richmond",
+				"Castleton Corners",
+				"Sunnyside",
+				"Elm Park"
+			],
+			"neighborhood": "West Brighton",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10301",
+				"10310"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Mariners Harbor",
+				"Graniteville",
+				"Port Richmond",
+				"Castleton Corners",
+				"Elm Park"
+			],
+			"neighborhood": "Westerleigh",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10302",
+				"10314"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Graniteville",
+				"Bulls Head"
+			],
+			"neighborhood": "Willowbrook",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10314"
+			]
+		},
+		{
+			"borough": "Staten Island",
+			"nearby_neighborhoods": [
+				"Arden Heights",
+				"Eltingville",
+				"Rossville"
+			],
+			"neighborhood": "Woodrow",
+			"state": "New York",
+			"subway_lines": [],
+			"zipCodes": [
+				"10309"
+			]
+		}
+	]
+}
