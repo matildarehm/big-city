@@ -7,8 +7,8 @@
     "noImplicitAny": true,
     "moduleResolution": "node",
     "sourceMap": true,
-    "outDir": "dist",
-    "baseUrl": ".",
+    "outDir": "api/dist",
+    "baseUrl": "./api",
     "paths": {
       "*": [
         "node_modules/*"
@@ -16,9 +16,9 @@
     }
   },
   "include": [
-    "src/**/*"
+    "../src/**/*"
   ],
   "exclude": [
-    "src/client"
+    "../src/client"
   ]
 }
