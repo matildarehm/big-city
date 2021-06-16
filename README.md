@@ -2,6 +2,7 @@
 NYC Geocode API
 
 *An npm package for geocoded searching and reverse searching addresses or endpoints within New York City*
+
 **In development**
 
 ### schemas
