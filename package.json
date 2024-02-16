@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prebuild": "tslint -c tslint.json -p tsconfig.json --fix",
-    "build": "tsc",
+    "prebuild": "api/node_modules/.bin/tslint -c tslint.json -p tsconfig.json --fix",
+    "build": "api/node_modules/.bin/tsc",
     "prestart": "npm run build",
-    "start": "node .",
-    "dev": "ts-node-dev src/index.ts",
+    "start": "node api",
+    "dev": "api/node_modules/.bin/ts-node-dev ../src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
